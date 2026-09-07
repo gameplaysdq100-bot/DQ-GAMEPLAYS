@@ -29,6 +29,33 @@
           "url": "https://www.mediafire.com/file/7aq6j7bja5xp3af/minecraft-26-45.apk/file"
         }
       ]
+    },
+    {
+      "id": "minecraft-patched-26-45",
+      "name": "Minecraft Patched",
+      "version": "26.45",
+      "platform": "Android",
+      "category": "Aventura y construcción",
+      "icon": "⛏️",
+      "short": "Minecraft Patched 26.45 para Android, pensado para quienes buscan utilizar shaders con soporte para la versión más reciente.",
+      "description": "Minecraft Patched 26.45 es una versión modificada para Android orientada al uso de shaders compatibles con la versión 26.45. La compatibilidad puede variar según el shader, el dispositivo y la configuración utilizada.",
+      "features": [
+        "Basado en Minecraft Bedrock 26.45.",
+        "Versión Patched para Android.",
+        "Orientado al uso de shaders con soporte para la versión 26.45.",
+        "Permite utilizar shaders compatibles para cambiar la apariencia visual del juego.",
+        "La compatibilidad de cada shader puede variar según el dispositivo y el propio shader."
+      ],
+      "links": [
+        {
+          "label": "Minecraft Patched 26.45 + Música",
+          "url": "https://www.mediafire.com/file/plukbwuswdfkonl/Minecraft-1.26.45.Patched-musica.apk/file"
+        },
+        {
+          "label": "Minecraft Patched 26.45",
+          "url": "https://www.mediafire.com/file/3gvafe3h5m2yvma/Minecraft-patched.1.26.45.apk/file"
+        }
+      ]
     }
   ]
 }
