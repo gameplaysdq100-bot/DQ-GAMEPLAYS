@@ -28,7 +28,8 @@
           "label": "Minecraft 26.45",
           "url": "https://www.mediafire.com/file/7aq6j7bja5xp3af/minecraft-26-45.apk/file"
         }
-      ]
+      ],
+      "image": "images/minecraft-26-45.webp"
     },
     {
       "id": "minecraft-patched-26-45",
@@ -55,7 +56,8 @@
           "label": "Minecraft Patched 26.45",
           "url": "https://www.mediafire.com/file/3gvafe3h5m2yvma/Minecraft-patched.1.26.45.apk/file"
         }
-      ]
+      ],
+      "image": "images/minecraft-patched-26-45.webp"
     }
   ]
 }
