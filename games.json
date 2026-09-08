@@ -58,6 +58,31 @@
         }
       ],
       "image": "minecraft-patched-26-45.png"
+    },
+    {
+      "id": "human-fall-flat-2-6",
+      "name": "Human Fall Flat",
+      "version": "2.6",
+      "platform": "Android",
+      "category": "Puzzle y plataformas",
+      "icon": "🤸",
+      "short": "Human Fall Flat 2.6 para Android, con nuevos desafíos y contenido para disfrutar solo o con amigos.",
+      "description": "Human Fall Flat es un juego de plataformas y puzzles basado en físicas, donde controlas a un personaje flexible y debes superar escenarios llenos de obstáculos, objetos y mecanismos. La versión 2.6 incluye el nivel Test Chamber, un nuevo desafío centrado en resolver puzzles y experimentar con diferentes objetos.",
+      "features": [
+        "Versión 2.6 para Android.",
+        "Nuevo nivel Test Chamber, presentado como el 30.º nivel oficial del juego.",
+        "Nuevos desafíos de resolución de puzzles y mecanismos.",
+        "Uso de una herramienta de reducción de tamaño para resolver determinados desafíos del nivel.",
+        "Física y situaciones cómicas características de Human Fall Flat.",
+        "Se puede jugar en solitario o con amigos mediante el modo multijugador."
+      ],
+      "links": [
+        {
+          "label": "Human Fall Flat v2.6",
+          "url": "https://www.mediafire.com/file/1ac2v855hvk7yqr/Human-Fall-Flat-v2.6.apk/file"
+        }
+      ],
+      "image": "human-fall-flat-2-6.png"
     }
   ]
 }
