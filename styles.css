@@ -38,50 +38,13 @@
 }
 
 
-/* CORRECCION DEFINITIVA: ancho estable en paginas individuales */
-main.detail {
-  display: block !important;
-  width: calc(100% - 32px) !important;
-  max-width: 1120px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
-.detail-content {
-  display: block !important;
-  width: 100% !important;
-  max-width: 100% !important;
-}
-.detail-content > * {
-  display: block;
-  width: 100% !important;
-  max-width: 100% !important;
-}
-.detail-content .game-image-wrap {
-  width: 100% !important;
-  max-width: 100% !important;
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-}
-.detail-content .game-image {
-  display: block !important;
-  width: 100% !important;
-  max-width: 100% !important;
-  height: auto !important;
-  max-height: none !important;
-  aspect-ratio: 16 / 9;
-  object-fit: cover;
-}
-.detail-content .detail-top {
-  width: 100% !important;
-  max-width: 100% !important;
-}
-.detail-content .info {
-  width: 100% !important;
-  max-width: 100% !important;
-  min-width: 0 !important;
-}
-@media (max-width:760px) {
-  main.detail { width: calc(100% - 24px) !important; }
-}
+/* Imágenes reales del catálogo */
+.cover{overflow:hidden;}
+.cover img{display:block;width:100%;height:100%;object-fit:cover;}
+.cover small{z-index:2;}
+/* La ficha usa la miniatura arriba; no necesita icono grande. */
+.detail-top{display:block;}
+.detail-top .lead{margin-bottom:0;}
+
+/* v4: catálogo usa exclusivamente las imágenes reales */
+.cover img{position:absolute;inset:0;width:100%;height:100%;display:block;object-fit:cover;}
