@@ -5,3 +5,34 @@
 .game-image-wrap{width:min(900px,100%);margin:0 auto 24px;border:1px solid #26323c;border-radius:18px;overflow:hidden;background:#0e151c;line-height:0}
 .game-image{display:block;width:100%;aspect-ratio:16/9;height:auto;max-height:500px;object-fit:cover}
 @media(max-width:760px){.game-image-wrap{margin-bottom:18px;border-radius:14px}.game-image{max-height:none}}
+
+
+/* Corrección responsive de las páginas individuales */
+.detail {
+  width: min(1120px, 92%);
+  max-width: 1120px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.detail > .game-image-wrap,
+.detail > .detail-top,
+.detail > .info {
+  width: 100%;
+  max-width: 100%;
+}
+.game-image-wrap {
+  margin-left: auto;
+  margin-right: auto;
+}
+.game-image {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+@media (max-width: 760px) {
+  .detail { width: 92%; }
+  .detail > .info,
+  .detail > .detail-top,
+  .detail > .game-image-wrap { width: 100%; }
+}
