@@ -83,6 +83,31 @@
         }
       ],
       "image": "human-fall-flat-2-6.png"
+    },
+    {
+      "id": "geometry-dash-2-2-144",
+      "name": "Geometry Dash",
+      "version": "2.2.144",
+      "platform": "Android",
+      "category": "Ritmo y plataformas",
+      "icon": "🎮",
+      "short": "Geometry Dash 2.2.144 para Android, sin mods, con niveles, música y desafíos de ritmo.",
+      "description": "Geometry Dash es un juego de acción y plataformas basado en el ritmo, donde debes controlar un personaje y superar niveles llenos de obstáculos sincronizados con la música. Esta publicación corresponde a la versión 2.2.144 para Android y se presenta sin modificaciones.",
+      "features": [
+        "Versión 2.2.144 para Android.",
+        "Versión presentada sin mods.",
+        "Niveles de plataformas con obstáculos y desafíos de precisión.",
+        "Jugabilidad basada en el ritmo y la música.",
+        "Editor para crear y compartir niveles personalizados.",
+        "Diferentes modos y niveles para poner a prueba tus reflejos."
+      ],
+      "links": [
+        {
+          "label": "Geometry Dash 2.2.144 SIN MODS",
+          "url": "https://www.mediafire.com/file/cirbxuyei4zzzgm/Geometry_Dash_2.2.144.apk/file"
+        }
+      ],
+      "image": "geometry-dash-2-2-144.jpg"
     }
   ]
 }
