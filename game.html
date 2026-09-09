@@ -1,7 +1,7 @@
-<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Juego | DQ GAMEPLAYS</title><link rel="stylesheet" href="styles.css?v=4"></head>
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Juego | DQ GAMEPLAYS</title><link rel="stylesheet" href="styles.css?v=5"></head>
 <body><header class="header"><div class="wrap nav"><a class="logo" href="index.html"><span>G</span> DQ GAMEPLAYS</a><a class="back" href="index.html">← Volver</a></div></header>
 <main class="wrap detail" id="game"></main><footer><div class="wrap">DQ GAMEPLAYS · Información y enlaces de juegos</div></footer>
-<script src="app.js?v=4"></script><script>
+<script src="app.js?v=5"></script><script>
 (async()=>{const d=await loadData(),id=new URLSearchParams(location.search).get('id'),g=d.games.find(x=>x.id===id),r=document.getElementById('game');
 if(!g){r.innerHTML='<div class="empty"><h1>Juego no encontrado</h1><a class="btn" href="index.html">Volver</a></div>';return}
 document.title=`${g.name} ${g.version} | DQ GAMEPLAYS`;
