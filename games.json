@@ -133,6 +133,30 @@
         }
       ],
       "image": "geometry-dash-2-2-144-mods.png"
+    },
+    {
+      "id": "geometry-dash-2-2081-pc",
+      "name": "Geometry Dash",
+      "version": "2.2081",
+      "platform": "PC",
+      "category": "Ritmo y plataformas",
+      "icon": "🎮",
+      "short": "Geometry Dash v2.2081 para PC, con sus niveles, música y desafíos de ritmo.",
+      "description": "Geometry Dash es un juego de acción y plataformas basado en el ritmo, donde debes superar niveles llenos de obstáculos sincronizados con la música. Esta publicación corresponde a la versión 2.2081 para PC.",
+      "features": [
+        "Versión 2.2081 para PC.",
+        "Niveles de plataformas con obstáculos y desafíos de precisión.",
+        "Jugabilidad basada en el ritmo y la música.",
+        "Editor para crear niveles personalizados.",
+        "Diferentes modos y niveles para poner a prueba tus reflejos."
+      ],
+      "links": [
+        {
+          "label": "Geometry Dash v2.2081 para PC",
+          "url": "https://www.mediafire.com/file/gvggwuddebhspz0/Geometry-Dash-2.2081.rar/file"
+        }
+      ],
+      "image": "geometry-dash-2-2081-pc.png"
     }
   ]
 }
