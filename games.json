@@ -157,6 +157,25 @@
         }
       ],
       "image": "geometry-dash-2-2081-pc.png"
+    },
+    {
+      "id": "poppy-playtime-capitulo-1-v1-0-18",
+      "name": "Poppy Playtime",
+      "version": "Capítulo 1 v1.0.18",
+      "platform": "Android",
+      "category": "Terror y aventura",
+      "icon": "🎮",
+      "short": "Poppy Playtime Capítulo 1 v1.0.18 para Android, una aventura de terror ambientada en una fábrica de juguetes abandonada.",
+      "description": "Poppy Playtime es una aventura de terror y rompecabezas ambientada en una fábrica de juguetes abandonada. En el Capítulo 1 debes explorar las instalaciones, resolver acertijos y descubrir qué ocurrió mientras avanzas por la historia.",
+      "features": [
+        "Capítulo 1 para Android.",
+        "Exploración de una fábrica de juguetes abandonada.",
+        "Acertijos y desafíos durante la aventura.",
+        "Ambientación de terror y suspenso.",
+        "Historia centrada en los misterios de Playtime Co."
+      ],
+      "links": [],
+      "image": "poppy-playtime-capitulo-1-v1-0-18.png"
     }
   ]
 }
