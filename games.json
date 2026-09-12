@@ -181,6 +181,29 @@
         }
       ],
       "image": "poppy-playtime-capitulo-1-v1-0-18.png"
+    },
+    {
+      "id": "poppy-playtime-capitulo-2-v1-42",
+      "name": "Poppy Playtime Capítulo 2",
+      "version": "1.42",
+      "platform": "Android",
+      "category": "Terror y aventura",
+      "icon": "🎮",
+      "short": "Poppy Playtime Capítulo 2 v1.42 para Android.",
+      "description": "Poppy Playtime Capítulo 2 continúa la aventura dentro de la fábrica Playtime Co., con nuevos escenarios, puzles y desafíos.",
+      "features": [
+        "Versión 1.42 para Android.",
+        "Capítulo 2 de la aventura.",
+        "Nuevos escenarios y desafíos.",
+        "Puzles y exploración dentro de la fábrica."
+      ],
+      "links": [
+        {
+          "label": "Poppy Playtime Chapter 2 v1.42 para Android",
+          "url": "https://www.mediafire.com/file/40ffr6np2mo65g9/poppy%20playtime%20chapter%202%20v1.42%20-%20espacioapk.com.apk/file"
+        }
+      ],
+      "image": "poppy-playtime-capitulo-2-v1-42.png"
     }
   ]
 }
