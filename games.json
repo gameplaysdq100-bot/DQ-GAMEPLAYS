@@ -204,6 +204,31 @@
         }
       ],
       "image": "poppy-playtime-capitulo-2-v1-42.png"
+    },
+    {
+      "id": "poppy-playtime-capitulo-3-v1-0-25",
+      "name": "Poppy Playtime Capítulo 3",
+      "version": "1.0.25",
+      "platform": "Android",
+      "category": "Terror y supervivencia",
+      "icon": "🎮",
+      "short": "Poppy Playtime Capítulo 3 v1.0.25 para Android.",
+      "description": "Poppy Playtime Capítulo 3 lleva la aventura a Playcare, un orfanato abandonado situado bajo la antigua fábrica de juguetes. Esta ficha corresponde a la versión 1.0.25 para Android.",
+      "features": [
+        "Capítulo 3 para Android.",
+        "Explora Playcare y sus diferentes zonas.",
+        "Nuevos desafíos y rompecabezas.",
+        "El GrabPack recibe nuevas posibilidades.",
+        "Nuevas criaturas y amenazas.",
+        "Modo de un jugador y juego sin conexión."
+      ],
+      "links": [
+        {
+          "label": "Poppy Playtime Capítulo 3 v1.0.25 para android",
+          "url": "https://www.mediafire.com/file/643cxsb3i7txjnl/Poppy+Playtime+Chapter+3+-+v1.0.25+-+APK+-+VPR.apk/file"
+        }
+      ],
+      "image": "poppy-playtime-capitulo-3-v1-0-25.png"
     }
   ]
 }
