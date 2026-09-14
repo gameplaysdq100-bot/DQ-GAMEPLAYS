@@ -229,6 +229,31 @@
         }
       ],
       "image": "poppy-playtime-capitulo-3-v1-0-25.png"
+    },
+    {
+      "id": "poppy-playtime-capitulo-4-v1-0-5",
+      "name": "Poppy Playtime Capítulo 4",
+      "version": "1.0.5",
+      "platform": "Android",
+      "category": "Terror y supervivencia",
+      "icon": "🎮",
+      "short": "Poppy Playtime Capítulo 4 v1.0.5 para Android.",
+      "description": "Poppy Playtime Capítulo 4 lleva la aventura a las profundidades de la fábrica de Playtime Co. Esta ficha corresponde a la versión 1.0.5 para Android.",
+      "features": [
+        "Capítulo 4 para Android.",
+        "Explora las profundidades de la fábrica de Playtime Co.",
+        "Nuevos personajes, enemigos y desafíos.",
+        "Nuevos acertijos y zonas por descubrir.",
+        "Historia ampliada y nuevos misterios.",
+        "Modo de un jugador y juego sin conexión."
+      ],
+      "links": [
+        {
+          "label": "Poppy Playtime Capítulo 4 v1.0.5 para Android",
+          "url": "https://www.mediafire.com/file/sjj70klo1m67l9u/Poppy-Playtime-Chapter-4-v1.0.5.apk/file"
+        }
+      ],
+      "image": "poppy-playtime-capitulo-4-v1-0-5.png"
     }
   ]
 }
