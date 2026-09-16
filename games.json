@@ -254,6 +254,38 @@
         }
       ],
       "image": "poppy-playtime-capitulo-4-v1-0-5.png"
+    },
+    {
+      "id": "minecraft-26-50",
+      "name": "Minecraft",
+      "version": "26.50",
+      "platform": "Android",
+      "category": "Aventura y construcción",
+      "icon": "⛏️",
+      "short": "Minecraft 26.50 para Android, la actualización Wilderness Bound con nuevos contenidos de exploración, estructuras y elementos para el mundo.",
+      "description": "Minecraft es un videojuego de construcción, exploración y aventura en un mundo formado por bloques. La versión 26.50, conocida como Wilderness Bound, añade nuevas formas de explorar la naturaleza, incluyendo el bosque moteado, campamentos abandonados, árboles de álamo, cojines y camas de paja, además de nuevos bloques y diversos ajustes y correcciones.",
+      "features": [
+        "Versión 26.50 para Android.",
+        "Nuevo bioma Bosque Moteado (Dappled Forest), con árboles de álamo, hongos de estantería y arbustos rojos.",
+        "Nuevas estructuras de Campamentos Abandonados con cofres, barriles, botín y mapas de explorador.",
+        "Nuevos Árboles de Álamo con hojas rojas, naranjas y amarillas y nuevos bloques de madera de álamo.",
+        "Nuevos Cojines disponibles en 16 colores, que se pueden colocar y usar para sentarse.",
+        "Nuevas Camas de Paja que permiten dormir una vez sin cambiar el punto de aparición.",
+        "Nuevas Escaleras y Losas de Lana y de Concreto en los 16 colores.",
+        "Nuevo Hongo de Estantería, que aparece sobre los árboles de álamo y puede utilizarse para preparar guisos.",
+        "Correcciones y mejoras de estabilidad, interfaz, gráficos y jugabilidad."
+      ],
+      "links": [
+        {
+          "label": "Minecraft 26.50 + Música",
+          "url": "https://www.mediafire.com/file/ga1mz3hwvyxuul8/minecraft-1.26.50.4-musica.apk/file"
+        },
+        {
+          "label": "Minecraft 26.50 SIN Música",
+          "url": "https://www.mediafire.com/file/g8dtswc7525ocht/minecraft-1.26.50.4.apk/file"
+        }
+      ],
+      "image": "minecraft-26-50.jpg"
     }
   ]
 }
