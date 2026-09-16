@@ -286,6 +286,34 @@
         }
       ],
       "image": "minecraft-26-50.jpg"
+    },
+    {
+      "id": "minecraft-26-51",
+      "name": "Minecraft",
+      "version": "26.51",
+      "platform": "Android",
+      "category": "Aventura y construcción",
+      "icon": "⛏️",
+      "short": "Minecraft 26.51 para Android, actualización hotfix con correcciones de estabilidad y rendimiento.",
+      "description": "Minecraft 26.51 para Android corresponde a una actualización hotfix de Bedrock. Según el changelog oficial, corrige un fallo que podía provocar un cierre inesperado al cargar mundos con estructuras de bloques grandes y densamente conectadas.",
+      "features": [
+        "Versión 26.51 para Android.",
+        "Hotfix de Minecraft Bedrock.",
+        "Corrección de un cierre inesperado al cargar ciertos mundos.",
+        "Mejoras de estabilidad y rendimiento.",
+        "Incluye la actualización oficial más reciente de la rama 26.51."
+      ],
+      "links": [
+        {
+          "label": "Minecraft 26.51 + Música",
+          "url": "https://www.mediafire.com/file/ycl5w7jrj2jaque/minecraft-1.26.51.1-Musica.apk/file"
+        },
+        {
+          "label": "Minecraft 26.51 SIN Música",
+          "url": "https://www.mediafire.com/file/0i9pwlgolmf740d/minecraft-1.26.51.1.apk/file"
+        }
+      ],
+      "image": "minecraft-26-51.png"
     }
   ]
 }
