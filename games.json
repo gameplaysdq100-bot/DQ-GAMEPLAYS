@@ -316,6 +316,35 @@
       "image": "minecraft-26-51.png"
     },
     {
+      "id": "minecraft-patched-26-51",
+      "name": "Minecraft Patched",
+      "version": "26.51",
+      "platform": "Android",
+      "category": "Aventura y construcción",
+      "icon": "⛏️",
+      "short": "Minecraft Patched 26.51 para Android, basado en la versión 26.51 y orientado al uso de shaders compatibles.",
+      "description": "Minecraft Patched 26.51 es una versión modificada para Android basada en Minecraft Bedrock 26.51. La versión 26.51 es un hotfix que incluye correcciones de estabilidad y rendimiento; esta edición Patched está orientada al uso de shaders compatibles. La compatibilidad puede variar según el shader, el dispositivo y la configuración utilizada.",
+      "features": [
+        "Basado en Minecraft Bedrock 26.51.",
+        "Versión Patched para Android.",
+        "Orientado al uso de shaders compatibles con la versión 26.51.",
+        "Incluye las correcciones de estabilidad y rendimiento de la actualización 26.51.",
+        "Corrección de un cierre inesperado al cargar determinados mundos con estructuras de bloques grandes y densamente conectadas.",
+        "La compatibilidad de cada shader puede variar según el dispositivo y el propio shader."
+      ],
+      "links": [
+        {
+          "label": "Minecraft Patched 26.51 + Música",
+          "url": "https://www.mediafire.com/file/j18xgt5a7h2rkpe/Minecraft-patched-26.51-musica.apk/file"
+        },
+        {
+          "label": "Minecraft Patched 26.51 SIN Música",
+          "url": "https://www.mediafire.com/file/qtyycmcz89otnjs/Minecraft-patched-26.51.apk/file"
+        }
+      ],
+      "image": "minecraft-patched-26-51.png"
+    },
+    {
       "id": "cuphead-dlc-pc",
       "name": "Cuphead + DLC",
       "version": "Juego completo + The Delicious Last Course",
