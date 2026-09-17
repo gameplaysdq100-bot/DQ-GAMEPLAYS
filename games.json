@@ -314,6 +314,31 @@
         }
       ],
       "image": "minecraft-26-51.png"
+    },
+    {
+      "id": "cuphead-dlc-pc",
+      "name": "Cuphead + DLC",
+      "version": "Juego completo + The Delicious Last Course",
+      "platform": "PC",
+      "category": "Acción y plataformas",
+      "icon": "🎮",
+      "short": "Cuphead + DLC The Delicious Last Course para PC, con la aventura original y contenido adicional.",
+      "description": "Cuphead es un juego de acción y plataformas inspirado en la animación clásica de los años 30. Esta edición para PC incluye el juego base y la expansión The Delicious Last Course, que añade una nueva isla, nuevos jefes, armas, amuletos y a Ms. Chalice como personaje jugable.",
+      "features": [
+        "Juego base Cuphead para PC.",
+        "Expansión The Delicious Last Course incluida.",
+        "Nueva isla con nuevos enfrentamientos contra jefes.",
+        "Ms. Chalice como personaje jugable.",
+        "Nuevas armas y amuletos.",
+        "Nuevos desafíos, habilidades y contenido para la aventura."
+      ],
+      "links": [
+        {
+          "label": "Cuphead + DLC para PC",
+          "url": "https://gofile.io/d/eHIwGh"
+        }
+      ],
+      "image": "cuphead-dlc.png"
     }
   ]
 }
