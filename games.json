@@ -368,6 +368,33 @@
         }
       ],
       "image": "cuphead-dlc.png"
+    },
+    {
+      "id": "terraria-1-4-5-8-6",
+      "name": "Terraria",
+      "version": "1.4.5.8.6",
+      "platform": "Android",
+      "category": "Aventura y supervivencia",
+      "icon": "🎮",
+      "short": "Terraria 1.4.5.8.6 para Android, la versión más reciente con correcciones críticas.",
+      "description": "Terraria es un juego de aventura, exploración, combate y construcción en un mundo sandbox. La versión 1.4.5.8.6 para Android incluye correcciones críticas y sincroniza el contenido móvil con Terraria 1.4.5.8 de PC.",
+      "features": [
+        "Versión 1.4.5.8.6 para Android.",
+        "Correcciones críticas de estabilidad.",
+        "Contenido de la actualización 1.4.5 Bigger and Boulder.",
+        "Contenido de colaboración con Dead Cells, incluyendo nuevas armas y accesorios de combate.",
+        "Pals de Palworld incorporados a Terraria.",
+        "Nuevos conjuntos de muebles, tipos de roca, monturas de transformación, látigos y elementos decorativos.",
+        "Nueva semilla Skyblock y mejoras al sistema de creación de mundos y semillas especiales.",
+        "Más de 5000 objetos, más de 25 NPC y más de 400 enemigos disponibles en el juego."
+      ],
+      "links": [
+        {
+          "label": "Terraria 1.4.5.8.6 para Android",
+          "url": "https://www.mediafire.com/file/t576p33sm5mj8yu/Terraria-v1.4.5.8.6.apk/file"
+        }
+      ],
+      "image": "terraria-1-4-5-8-6.png"
     }
   ]
 }
