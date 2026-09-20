@@ -395,6 +395,31 @@
         }
       ],
       "image": "terraria-1-4-5-8-6.png"
+    },
+    {
+      "id": "terraria-1-4-5-8-pc",
+      "name": "Terraria 1.4.5.8",
+      "version": "1.4.5.8",
+      "platform": "PC y Laptop",
+      "category": "Aventura y supervivencia",
+      "icon": "🎮",
+      "short": "Terraria 1.4.5.8 para PC y laptop, con el contenido de Bigger and Boulder y sus últimas correcciones para PC.",
+      "description": "Terraria es un juego de aventura, exploración, combate y construcción en un mundo sandbox. Esta edición corresponde a la versión 1.4.5.8 para PC y laptop, con el contenido de la actualización Bigger and Boulder y sus ajustes y correcciones para la versión de PC.",
+      "features": [
+        "Versión 1.4.5.8 para PC y laptop.",
+        "Contenido de la actualización Bigger and Boulder.",
+        "Nuevos objetos, ajustes de balance y cambios de funcionalidad.",
+        "Nuevos desafíos, enemigos, accesorios y contenido de exploración.",
+        "Construcción y exploración en un mundo sandbox.",
+        "Compatible con juego individual y funciones multijugador de la versión para PC."
+      ],
+      "links": [
+        {
+          "label": "Terraria 1.4.5.8 para PC",
+          "url": "https://www.mediafire.com/file/utiitax93pn8u8j/terraria_v1.4.5.8.zip/file"
+        }
+      ],
+      "image": "terraria-1-4-5-8-pc.jpg"
     }
   ]
 }
