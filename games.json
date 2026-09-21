@@ -420,6 +420,31 @@
         }
       ],
       "image": "terraria-1-4-5-8-pc.jpg"
+    },
+    {
+      "id": "gta-san-andreas-2-11-311",
+      "name": "GTA San Andreas",
+      "version": "2.11.311",
+      "platform": "Android",
+      "category": "Acción y aventura",
+      "icon": "🎮",
+      "short": "Grand Theft Auto: San Andreas 2.11.311 para Android, con la actualización oficial de enero de 2026.",
+      "description": "Grand Theft Auto: San Andreas es un juego de acción y aventura de mundo abierto de Rockstar Games. La versión Android 2.11.311 fue publicada el 21 de enero de 2026 e incluye una corrección para un problema que podía provocar un cierre inesperado al descargar los recursos del juego.",
+      "features": [
+        "Versión Android 2.11.311.",
+        "Corrección de un problema que podía causar un cierre al descargar recursos del juego.",
+        "Mundo abierto con Los Santos, San Fierro y Las Venturas.",
+        "Historia protagonizada por Carl Johnson (CJ).",
+        "Controles táctiles personalizables y compatibilidad con determinados mandos.",
+        "Guardado en la nube para usuarios compatibles con Rockstar Games Social Club."
+      ],
+      "links": [
+        {
+          "label": "GTA San Andreas 2.11.311 para Android",
+          "url": "https://www.mediafire.com/file/on1ys5y8ktcht6o/GTA_San_Andreas_-_v2.11.311.apk/file"
+        }
+      ],
+      "image": "gta-san-andreas-2-11-311.jpg"
     }
   ]
 }
