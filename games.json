@@ -445,6 +445,31 @@
         }
       ],
       "image": "gta-san-andreas-2-11-311.jpg"
+    },
+    {
+      "id": "gta-san-andreas-pc",
+      "name": "GTA San Andreas",
+      "version": "PC",
+      "platform": "PC y Laptop",
+      "category": "Acción y aventura",
+      "icon": "🎮",
+      "short": "Grand Theft Auto: San Andreas para PC y laptop, el clásico mundo abierto de Rockstar Games.",
+      "description": "Grand Theft Auto: San Andreas es un juego de acción y aventura de mundo abierto desarrollado por Rockstar North. La historia sigue a Carl Johnson (CJ) en su regreso a Los Santos y su recorrido por el estado de San Andreas.",
+      "features": [
+        "Versión para PC y laptop.",
+        "Mundo abierto con Los Santos, San Fierro y Las Venturas.",
+        "Historia protagonizada por Carl Johnson (CJ).",
+        "Misiones, vehículos, armas y actividades de mundo abierto.",
+        "Campaña para un jugador.",
+        "Compatible con PC mediante las versiones oficiales de Rockstar Games."
+      ],
+      "links": [
+        {
+          "label": "GTA San Andreas para PC",
+          "url": "https://www.mediafire.com/file/ppjeaj3r55e28fo/Gta+San+Andreas+Kira-gtaall.rar/file"
+        }
+      ],
+      "image": "gta-san-andreas-pc.jpg"
     }
   ]
 }
