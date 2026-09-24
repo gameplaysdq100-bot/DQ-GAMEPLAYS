@@ -470,6 +470,31 @@
         }
       ],
       "image": "gta-san-andreas-pc.jpg"
+    },
+    {
+      "id": "fnaf-1-v2-0-7",
+      "name": "Five Nights at Freddy's",
+      "version": "2.0.7",
+      "platform": "Android",
+      "category": "Terror y supervivencia",
+      "icon": "🎮",
+      "short": "Five Nights at Freddy's 1 v2.0.7 para Android, con el clásico desafío de supervivencia en Freddy Fazbear's Pizza.",
+      "description": "Five Nights at Freddy's es un juego de terror y supervivencia en el que debes vigilar las cámaras, administrar la energía y evitar a los animatrónicos durante la noche. La versión 2.0.7 para Android incluye las actualizaciones recientes de la aplicación, incluyendo cambios en la biblioteca de facturación de Google Play y en el nivel de API objetivo.",
+      "features": [
+        "Versión 2.0.7 para Android.",
+        "Vigila las cámaras de seguridad y controla la oficina.",
+        "Administra una cantidad limitada de electricidad durante cada noche.",
+        "Supervive cinco noches en Freddy Fazbear's Pizza.",
+        "Versión móvil remasterizada basada en la versión para PC.",
+        "Subtítulos disponibles en español latino y otros idiomas."
+      ],
+      "links": [
+        {
+          "label": "Five Nights at Freddy's 1 v2.0.7 para Android",
+          "url": "https://www.mediafire.com/file/m27hx8l9wxz9xxr/five-nights-at-freddy_2.0.7.apk/file"
+        }
+      ],
+      "image": "fnaf-1-v2-0-7.png"
     }
   ]
 }
