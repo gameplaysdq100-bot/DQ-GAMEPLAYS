@@ -316,6 +316,36 @@
       "image": "minecraft-26-51.png"
     },
     {
+      "id": "minecraft-26-52",
+      "name": "Minecraft",
+      "version": "26.52",
+      "platform": "Android",
+      "category": "Aventura y construcción",
+      "icon": "⛏️",
+      "short": "Minecraft 26.52 para Android, una actualización hotfix con correcciones de estabilidad, gráficos, jugabilidad y complementos.",
+      "description": "Minecraft es un videojuego de construcción, exploración y aventura en un mundo formado por bloques. La versión 26.52 para Android corresponde a una actualización hotfix de Bedrock con diversas correcciones de estabilidad, gráficos, jugabilidad, interfaz y complementos.",
+      "features": [
+        "Versión 26.52 para Android.",
+        "Actualización hotfix de Minecraft Bedrock.",
+        "Mejoras de estabilidad y rendimiento.",
+        "Correcciones gráficas relacionadas con texturas y hardware compatible.",
+        "Correcciones de jugabilidad en el modo Espectador y otros elementos del mundo.",
+        "Correcciones para determinados complementos y mundos antiguos.",
+        "Mejoras y correcciones en la interfaz de usuario."
+      ],
+      "links": [
+        {
+          "label": "Minecraft 26.52 + Música",
+          "url": "https://www.mediafire.com/file/d5yjq9qbsh55swq/minecraft-1.26.52.3-musica.apk/file"
+        },
+        {
+          "label": "Minecraft 26.52 SIN Música",
+          "url": "https://www.mediafire.com/file/qxor21sz4r0k3o8/minecraft-1.26.52.3.apk/file"
+        }
+      ],
+      "image": "minecraft-26-52.png"
+    },
+    {
       "id": "minecraft-patched-26-51",
       "name": "Minecraft Patched",
       "version": "26.51",
