@@ -583,6 +583,31 @@
         }
       ],
       "image": "minecraft-patched-26-52.png"
+    },
+    {
+      "id": "human-fall-flat-2-7",
+      "name": "Human Fall Flat",
+      "version": "2.7",
+      "platform": "Android",
+      "category": "Puzzle y plataformas",
+      "icon": "🤸",
+      "short": "Human Fall Flat 2.7 para Android, con nuevos niveles y multijugador cooperativo.",
+      "description": "Human Fall Flat es un juego de plataformas y puzzles basado en físicas. La versión 2.7 para Android incluye el contenido disponible de esta versión y permite jugar en solitario o con hasta 4 jugadores en el modo multijugador online.",
+      "features": [
+        "Versión 2.7 para Android.",
+        "Juego de plataformas y puzzles basado en físicas.",
+        "Multijugador online cooperativo de hasta 4 jugadores.",
+        "Niveles con diferentes rutas, obstáculos y mecanismos.",
+        "Personalización del personaje con distintos atuendos.",
+        "Nuevos niveles y contenido gratuito disponible para la comunidad."
+      ],
+      "links": [
+        {
+          "label": "Human Fall Flat 2.7 para Android",
+          "url": "https://www.mediafire.com/file/qpdbs7sglttlnen/Human-Fall-Flat-v2.7.apk/file"
+        }
+      ],
+      "image": "human-fall-flat-2-7.png"
     }
   ]
 }
