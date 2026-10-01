@@ -608,6 +608,31 @@
         }
       ],
       "image": "human-fall-flat-2-7.png"
+    },
+    {
+      "id": "hollow-knight-pc",
+      "name": "Hollow Knight",
+      "version": "PC y Laptop",
+      "platform": "PC",
+      "category": "Acción y aventura",
+      "icon": "🎮",
+      "short": "Hollow Knight para PC y laptop, una aventura de acción y exploración en 2D ambientada en un reino de insectos en ruinas.",
+      "description": "Hollow Knight es una aventura de acción en 2D desarrollada por Team Cherry. Explora un enorme reino interconectado, descubre secretos, combate criaturas y enfréntate a numerosos jefes mientras avanzas por Hallownest.",
+      "features": [
+        "Aventura de acción en 2D.",
+        "Gran mundo interconectado para explorar.",
+        "Combates contra criaturas y jefes.",
+        "Habilidades y mejoras para progresar.",
+        "Contenido adicional incluido en el juego base.",
+        "Compatible con PC y laptop."
+      ],
+      "links": [
+        {
+          "label": "Hollow Knight para PC",
+          "url": "https://www.mediafire.com/file/7k8vcsqs87hlypf/Hollow_Knight_-_DQ_GAMEPLAYS.rar/file"
+        }
+      ],
+      "image": "hollow-knight-pc.png"
     }
   ]
 }
