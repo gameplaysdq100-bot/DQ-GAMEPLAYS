@@ -633,6 +633,29 @@
         }
       ],
       "image": "hollow-knight-pc.png"
+    },
+    {
+      "id": "halo-combat-evolved-android",
+      "name": "Halo: Combat Evolved",
+      "version": "Android",
+      "platform": "Android",
+      "category": "Acción y ciencia ficción",
+      "icon": "🎮",
+      "short": "Halo: Combat Evolved para Android, versión nativa para dispositivos Android de 64 bits.",
+      "description": "Halo: Combat Evolved es un juego de acción y ciencia ficción. Esta publicación corresponde a un port nativo para Android basado en la decompilación del juego original de Xbox. El port Android requiere un dispositivo de 64 bits y utiliza OpenGL ES 3. El port no incluye los datos originales del juego; estos deben obtenerse por separado de una copia legítima.",
+      "features": [
+        "Port nativo de Halo: Combat Evolved para Android.",
+        "Compatible con dispositivos Android arm64-v8a.",
+        "Requiere Android 9 (API 28) o posterior.",
+        "Utiliza OpenGL ES 3 para los gráficos."
+      ],
+      "links": [
+        {
+          "label": "Halo: Combat Evolved para Android",
+          "url": "https://www.mediafire.com/file/dzyx610urs76t98/Halo-Ce-By_DQ_GAMEPLAYS.apk/file"
+        }
+      ],
+      "image": "halo-combat-evolved-android.png"
     }
   ]
 }
