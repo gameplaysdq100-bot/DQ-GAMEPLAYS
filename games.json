@@ -656,6 +656,34 @@
         }
       ],
       "image": "halo-combat-evolved-android.png"
+    },
+    {
+      "id": "hollow-knight-silksong-pc",
+      "name": "Hollow Knight: Silksong",
+      "version": "PC y Laptop",
+      "platform": "PC",
+      "category": "Acción y aventura",
+      "icon": "🎮",
+      "short": "Hollow Knight: Silksong para PC y laptop, una aventura de acción en 2D protagonizada por Hornet.",
+      "description": "Hollow Knight: Silksong es una aventura de acción en 2D desarrollada por Team Cherry. En esta nueva aventura controlas a Hornet, quien llega a un reino desconocido y debe enfrentarse a enemigos, descubrir secretos, resolver misterios y avanzar hasta la cima del reino.",
+      "features": [
+        "Aventura de acción y exploración en 2D.",
+        "Juegas como Hornet, con un conjunto de movimientos y habilidades completamente nuevo.",
+        "Más de 200 enemigos para enfrentar durante la aventura.",
+        "Nuevas habilidades de seda y herramientas que pueden fabricarse para superar desafíos.",
+        "Un mundo interconectado con grutas, bosques de coral, ciudades y otras zonas por explorar.",
+        "Combates contra criaturas, cazadores, asesinos, reyes, monstruos y caballeros.",
+        "Nuevos aliados, secretos y misterios relacionados con el reino.",
+        "Banda sonora orquestal compuesta por Christopher Larkin.",
+        "Compatible con PC y laptop."
+      ],
+      "links": [
+        {
+          "label": "Hollow Knight: Silksong - Sitio oficial",
+          "url": "https://www.mediafire.com/file/yipkvfsd6b6mlyp/Hollow_Knight_Silksong_-_DQ_GAMEPLAYS.rar/file"
+        }
+      ],
+      "image": "hollow-knight-silksong-pc.jpg"
     }
   ]
 }
