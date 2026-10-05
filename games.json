@@ -206,6 +206,30 @@
       "image": "poppy-playtime-capitulo-2-v1-42.png"
     },
     {
+      "id": "poppy-playtime-capitulo-2-pc",
+      "name": "Poppy Playtime Capítulo 2",
+      "version": "PC y Laptop",
+      "platform": "PC",
+      "category": "Terror y aventura",
+      "icon": "🎮",
+      "short": "Poppy Playtime Capítulo 2 para PC y laptop, una aventura de terror y rompecabezas dentro de la fábrica de Playtime Co.",
+      "description": "Poppy Playtime Capítulo 2 continúa la aventura dentro de la fábrica de Playtime Co., con nuevos escenarios, rompecabezas y desafíos mientras descubres más secretos de la historia.",
+      "features": [
+        "Capítulo 2 para PC y laptop.",
+        "Exploración de nuevas zonas de la fábrica.",
+        "Nuevos rompecabezas y desafíos.",
+        "Ambientación de terror y suspenso.",
+        "Continúa la historia y descubre nuevos misterios de Playtime Co."
+      ],
+      "links": [
+         {
+          "label": "Poppy Playtime Chapter 2 para PC",
+          "url": "https://www.mediafire.com/file/fbtzwajjlanb4yx/Poppy+Playtime+-+Chapter+2.rar/file"
+        }
+      ],
+      "image": "poppy-playtime-capitulo-2-pc.jpg"
+    },
+    {
       "id": "poppy-playtime-capitulo-3-v1-0-25",
       "name": "Poppy Playtime Capítulo 3",
       "version": "1.0.25",
