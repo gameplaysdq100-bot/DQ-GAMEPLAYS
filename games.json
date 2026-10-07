@@ -222,7 +222,7 @@
         "Continúa la historia y descubre nuevos misterios de Playtime Co."
       ],
       "links": [
-         {
+        {
           "label": "Poppy Playtime Chapter 2 para PC",
           "url": "https://www.mediafire.com/file/fbtzwajjlanb4yx/Poppy+Playtime+-+Chapter+2.rar/file"
         }
@@ -708,6 +708,31 @@
         }
       ],
       "image": "hollow-knight-silksong-pc.jpg"
+    },
+    {
+      "id": "actions-and-stuff-1-12",
+      "name": "Actions & Stuff",
+      "version": "1.12",
+      "platform": "Android / PC y Laptop",
+      "category": "Recursos y animación",
+      "icon": "🎮",
+      "short": "Actions & Stuff 1.12 para Minecraft Bedrock, con nuevas animaciones, modelos, texturas y efectos visuales.",
+      "description": "Actions & Stuff 1.12 es un paquete de recursos para Minecraft Bedrock desarrollado por Oreville Studios. Añade animaciones de jugadores y criaturas, modelos 3D de objetos, armaduras personalizadas, partículas y una renovación visual de las texturas.",
+      "features": [
+        "Versión 1.12 de Actions & Stuff.",
+        "Nuevas y mejoradas animaciones para jugadores y criaturas.",
+        "Modelos 3D de objetos.",
+        "Armaduras y elementos visuales personalizados.",
+        "Mejoras de texturas y efectos.",
+        "Compatible con Minecraft Bedrock en Android y Windows."
+      ],
+      "links": [
+        {
+          "label": "Actions & Stuff 1.12",
+          "url": "https://www.mediafire.com/file/5fcrxuk8xx0m6ow/Actions_Stuff_1.12_By_DQ_GAMEPLAYS.mcpack/file"
+        }
+      ],
+      "image": "actions-and-stuff-1-12.jpg"
     }
   ]
 }
