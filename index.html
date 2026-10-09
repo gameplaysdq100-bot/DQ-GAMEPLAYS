@@ -2,25 +2,53 @@
 <html lang="es">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Gaming Hub | Juegos</title><meta name="description" content="Juegos, versiones, información y enlaces.">
-<link rel="stylesheet" href="styles.css?v=5">
+<title>DQ GAMEPLAYS | Juegos para Android, PC y Minecraft</title>
+<meta name="description" content="Descubre juegos para Android y PC, versiones, mods de Minecraft, guías y novedades en DQ GAMEPLAYS.">
+<meta name="theme-color" content="#070b14">
+<link rel="icon" href="logo.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css?v=6">
 </head>
 <body>
 <header class="header"><div class="wrap nav">
-<a class="logo" href="index.html"><span>G</span> GAMING HUB</a>
-<nav><a href="#juegos">Juegos</a></nav>
+<a class="logo" href="index.html" aria-label="DQ GAMEPLAYS, inicio"><img src="logo.svg" alt=""/><span>DQ <b>GAMEPLAYS</b><small>PLAY · DISCOVER · LEVEL UP</small></span></a>
+<button class="menu-toggle" id="menuToggle" aria-label="Abrir menú" aria-expanded="false">☰</button>
+<nav id="mainNav"><a href="#categorias">Categorías</a><a href="#juegos">Juegos</a><a href="#noticias">Noticias</a><a href="#guias">Guías</a></nav>
+<a class="nav-cta" href="#juegos">Explorar juegos <span>↗</span></a>
 </div></header>
 <main>
 <section class="hero"><div class="wrap hero-inner">
-<div class="hero-copy"><p class="eyebrow">🎮 GAMING HUB</p><h1>Juegos, versiones<br><em>y novedades.</em></h1><p class="lead">Encuentra información de tus juegos favoritos y accede a sus enlaces desde un solo lugar.</p>
-<div class="searchbox">🔎 <input id="search" placeholder="Buscar un juego..." aria-label="Buscar un juego"></div></div>
-<div class="hero-art"><div class="pixel-card"><div class="pixel-sky"></div><div class="pixel-ground"></div><div class="pixel-title">GAMING<br>HUB</div></div></div>
+<div class="hero-copy"><p class="eyebrow"><span class="live-dot"></span> TU PRÓXIMA AVENTURA EMPIEZA AQUÍ</p><h1>Juega más.<br><em>Descubre todo.</em></h1><p class="lead">Juegos para Android y PC, versiones de Minecraft, mods, guías y novedades. Todo organizado para que encuentres tu próxima partida.</p>
+<div class="hero-actions"><a class="btn" href="#juegos">Explorar catálogo <span>→</span></a><a class="btn btn-ghost" href="#categorias">Ver categorías</a></div>
+<div class="hero-stats"><div><strong id="heroGameCount">30+</strong><span>publicaciones</span></div><i></i><div><strong>Android + PC</strong><span>varias plataformas</span></div><i></i><div><strong>DQ</strong><span>gaming community</span></div></div>
+</div><div class="hero-art"><div class="hero-orbit orbit-one"></div><div class="hero-orbit orbit-two"></div><div class="hero-feature"><img src="minecraft-26-52.png" alt="Minecraft"/><div class="feature-shade"></div><div class="feature-tag">DESTACADO <span>✦</span></div><div class="feature-copy"><span>EXPLORA · CONSTRUYE · SOBREVIVE</span><h2>Tu mundo.<br>Tu aventura.</h2><a href="game.html?id=minecraft-26-52">Ver Minecraft <b>↗</b></a></div></div><div class="floating-chip chip-top">✦ NUEVAS AVENTURAS</div><div class="floating-chip chip-bottom"><span class="chip-icon">⌘</span><span><b>Game zone</b><small>Encuentra tu próximo juego</small></span></div></div>
 </div></section>
-<section id="juegos" class="wrap catalog">
-<div class="section-title"><div><p class="eyebrow">CATÁLOGO</p><h2>Juegos disponibles</h2></div><span id="count"></span></div>
-<div id="games" class="grid"></div><div id="empty" class="empty hidden">No encontramos ese juego.</div>
-</section>
+<section class="wrap category-section" id="categorias"><div class="section-title"><div><p class="eyebrow">ENCUENTRA TU MODO</p><h2>Explora por categoría</h2></div><p class="section-note">Un universo de juegos a un clic.</p></div>
+<div class="category-grid">
+<button class="category-card" data-filter="android"><span class="category-icon">🎮</span><span><b>Juegos para Android</b><small>Juega desde tu móvil</small></span><i>↗</i></button>
+<button class="category-card" data-filter="pc"><span class="category-icon">💻</span><span><b>Juegos para PC</b><small>Experiencias para escritorio</small></span><i>↗</i></button>
+<button class="category-card" data-filter="minecraft"><span class="category-icon">⛏️</span><span><b>Minecraft y mods</b><small>Versiones y complementos</small></span><i>↗</i></button>
+<a class="category-card" href="#noticias"><span class="category-icon">📰</span><span><b>Noticias y actualizaciones</b><small>Novedades del mundo gamer</small></span><i>↗</i></a>
+<a class="category-card" href="#guias"><span class="category-icon">📚</span><span><b>Guías y tutoriales</b><small>Consejos para jugar mejor</small></span><i>↗</i></a>
+</div></section>
+<section id="juegos" class="wrap catalog"><div class="section-title"><div><p class="eyebrow">EL CATÁLOGO DQ</p><h2>Encuentra tu próximo juego</h2><p class="section-note">Fichas con detalles, versiones y enlaces disponibles.</p></div><span id="count" class="count-pill"></span></div>
+<div class="catalog-tools"><label class="searchbox"><span>⌕</span><input id="search" placeholder="Busca por nombre, plataforma o categoría..." aria-label="Buscar un juego"><kbd>BUSCAR</kbd></label><button id="clearFilter" class="clear-filter hidden">Ver todos ×</button></div>
+<div class="filter-row" id="filterRow"><button class="filter-chip active" data-filter="all">Todos los juegos</button><button class="filter-chip" data-filter="android">🎮 Android</button><button class="filter-chip" data-filter="pc">💻 PC y Laptop</button><button class="filter-chip" data-filter="minecraft">⛏️ Minecraft y mods</button></div>
+<div id="games" class="grid"></div><div id="empty" class="empty hidden"><span>⌕</span><h3>No encontramos ese juego</h3><p>Prueba con otro nombre o cambia la categoría.</p></div></section>
+<section id="noticias" class="editorial-section"><div class="wrap"><div class="section-title"><div><p class="eyebrow">EN EL RADAR</p><h2>Noticias y actualizaciones</h2><p class="section-note">Un espacio para estar al día antes de entrar al juego.</p></div><span class="section-symbol">◉</span></div><div class="editorial-grid">
+<article class="editorial-card news-card"><div class="editorial-art art-blue"><span>PATCH<br>NOTES</span><i>↗</i></div><div class="editorial-copy"><p class="eyebrow">ACTUALIZACIONES</p><h3>Antes de instalar una nueva versión</h3><p>Comprueba el número de versión, los cambios publicados y la compatibilidad con tu dispositivo para evitar sorpresas.</p><a href="#guias">Ver consejos <b>→</b></a></div></article>
+<article class="editorial-card news-card"><div class="editorial-art art-purple"><span>GAME<br>RADAR</span><i>✦</i></div><div class="editorial-copy"><p class="eyebrow">MUNDO GAMER</p><h3>Descubre juegos para tu próxima partida</h3><p>Explora el catálogo por plataforma y género para encontrar aventuras, terror, plataformas y supervivencia.</p><a href="#juegos">Explorar juegos <b>→</b></a></div></article>
+<article class="editorial-card news-card"><div class="editorial-art art-green"><span>MINE<br>CRAFT</span><i>⛏</i></div><div class="editorial-copy"><p class="eyebrow">MINECRAFT</p><h3>Versiones, mundos y complementos</h3><p>Revisa cada ficha para identificar la versión y encontrar los enlaces que están disponibles en la publicación.</p><a href="#juegos" data-jump-filter="minecraft">Ver Minecraft <b>→</b></a></div></article>
+</div></div></section>
+<section id="guias" class="wrap guides-section"><div class="section-title"><div><p class="eyebrow">SUBE DE NIVEL</p><h2>Guías y tutoriales</h2><p class="section-note">Pequeños consejos que ayudan a jugar con más tranquilidad.</p></div></div><div class="guide-grid">
+<article class="guide-card"><span class="guide-number">01</span><span class="guide-icon">📱</span><div><h3>Cómo elegir la versión correcta</h3><p>Verifica plataforma, versión, espacio libre y requisitos antes de instalar.</p></div><span class="guide-arrow">↗</span></article>
+<article class="guide-card"><span class="guide-number">02</span><span class="guide-icon">🛡️</span><div><h3>Descarga con precaución</h3><p>Usa fuentes confiables, revisa los permisos y evita archivos o enlaces sospechosos.</p></div><span class="guide-arrow">↗</span></article>
+<article class="guide-card"><span class="guide-number">03</span><span class="guide-icon">🖥️</span><div><h3>Prepara tu PC o móvil</h3><p>Cierra aplicaciones innecesarias y asegúrate de tener almacenamiento suficiente.</p></div><span class="guide-arrow">↗</span></article>
+<article class="guide-card"><span class="guide-number">04</span><span class="guide-icon">⛏️</span><div><h3>Mods y compatibilidad</h3><p>Comprueba que el complemento corresponde a la edición y versión del juego.</p></div><span class="guide-arrow">↗</span></article>
+</div></section>
+<section class="community-band"><div class="wrap community-inner"><div><p class="eyebrow">ESTÁS EN DQ GAMEPLAYS</p><h2>Tu siguiente aventura<br><em>está a un clic.</em></h2></div><a class="btn" href="#juegos">Ver todo el catálogo <span>→</span></a></div></section>
 </main>
-<footer><div class="wrap">Gaming Hub · Información y enlaces de juegos</div></footer>
-<script src="app.js?v=5"></script>
+<footer><div class="wrap footer-main"><a class="logo footer-logo" href="index.html"><img src="logo.svg" alt=""/><span>DQ <b>GAMEPLAYS</b><small>PLAY · DISCOVER · LEVEL UP</small></span></a><p>Un espacio para descubrir juegos, versiones, mods y tutoriales.</p><a href="#top" class="back-top">Volver arriba ↑</a></div><div class="wrap footer-bottom"><span>© <span id="year"></span> DQ GAMEPLAYS</span><span>Juega con curiosidad. Descarga con responsabilidad.</span></div></footer>
+<script src="app.js?v=6"></script>
 </body></html>
