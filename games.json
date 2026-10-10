@@ -801,6 +801,32 @@
         }
       ],
       "image": "actions-and-stuff-1-12.jpg"
+    },
+    {
+      "id": "poppy-playtime-capitulo-5-pc",
+      "name": "Poppy Playtime Capítulo 5",
+      "version": "PC y Laptop",
+      "platform": "PC",
+      "category": "Terror y aventura",
+      "icon": "🎮",
+      "short": "Poppy Playtime Capítulo 5 para PC y laptop: continúa la aterradora aventura en las profundidades de Playtime Co. y enfréntate al misterio del Prototipo.",
+      "description": "Poppy Playtime - Chapter 5 continúa la historia dentro de Playtime Co. El jugador se adentra en una nueva zona de la fábrica mientras Huggy Wuggy lo persigue y busca descubrir los secretos del Prototipo. Esta entrega combina exploración en primera persona, terror, rompecabezas y obstáculos ambientales. Requiere el juego base Poppy Playtime para jugar.",
+      "features": [
+        "Capítulo 5 para PC y laptop; lanzado el 18 de febrero de 2026.",
+        "Explora una nueva zona de la fábrica y los dominios del Prototipo.",
+        "Huggy Wuggy persigue al jugador durante la aventura.",
+        "Resuelve rompecabezas y supera obstáculos ambientales con nuevas herramientas y funciones del GrabPack.",
+        "Encuentra personajes que podrían ayudarte, aunque no siempre será fácil confiar en ellos.",
+        "Descubre secretos y nuevos detalles sobre los acontecimientos de Playtime Co.",
+        "Requiere el juego base Poppy Playtime para jugar este capítulo."
+      ],
+      "links": [
+        {
+          "label": "Poppy Playtime Capítulo 5 para PC",
+          "url": "https://www.mediafire.com/file/0i3x01lzkbxrtcd/Poppy+GarchaPlayTime+5.7z/file?dkey=n3j2585e6bx&r=1774"
+        }
+      ],
+      "image": "poppy-playtime-capitulo-5-pc.png"
     }
   ]
 }
