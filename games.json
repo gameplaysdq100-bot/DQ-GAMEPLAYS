@@ -619,6 +619,29 @@
       "image": "fnaf-1-v2-0-7.png"
     },
     {
+      "id": "fnaf-2-v2-0-7",
+      "name": "Five Nights at Freddy's 2",
+      "version": "2.0.7",
+      "platform": "Android",
+      "category": "Terror y supervivencia",
+      "icon": "🎮",
+      "short": "Five Nights at Freddy's 2 v2.0.7 para Android, con una nueva noche de supervivencia frente a los animatrónicos.",
+      "description": "Five Nights at Freddy's 2 es un juego de terror y supervivencia en el que debes vigilar los animatrónicos y utilizar las herramientas disponibles para sobrevivir durante la noche. Esta ficha corresponde a la versión 2.0.7 para Android.",
+      "features": [
+        "Versión 2.0.7 para Android.",
+        "Vigila los movimientos de los animatrónicos durante la noche.",
+        "Utiliza las herramientas disponibles para mantenerlos alejados.",
+        "Supervivencia y tensión en la pizzería de Freddy Fazbear."
+      ],
+      "links": [
+        {
+          "label": "Five Nights at Freddy's 2 v2.0.7 para Android",
+          "url": "https://www.mediafire.com/file/cbwu8pcvrl1qwzl/fnaf-2_2.0.7.apk/file"
+        }
+      ],
+      "image": "fnaf-2-v2-0-7.png"
+    },
+    {
       "id": "cuphead-dlc-android",
       "name": "Cuphead + DLC",
       "version": "Juego base + The Delicious Last Course",
