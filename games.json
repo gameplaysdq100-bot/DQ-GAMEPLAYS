@@ -850,6 +850,30 @@
         }
       ],
       "image": "poppy-playtime-capitulo-5-pc.png"
+    },
+    {
+      "id": "fnaf-3-v2-0-4",
+      "name": "Five Nights at Freddy's 3",
+      "version": "2.0.4",
+      "platform": "Android",
+      "category": "Terror y supervivencia",
+      "icon": "🎮",
+      "short": "Five Nights at Freddy's 3 v2.0.4 para Android: sobrevive en Fazbear's Fright y vigila a Springtrap y los animatrónicos fantasma.",
+      "description": "Five Nights at Freddy's 3 es un juego de terror y supervivencia ambientado treinta años después del cierre de Freddy Fazbear's Pizza. En Fazbear's Fright debes vigilar cámaras, administrar los sistemas y sobrevivir a Springtrap y a las apariciones de los animatrónicos fantasma. Esta ficha corresponde a la versión 2.0.4 para Android.",
+      "features": [
+        "Versión 2.0.4 para Android.",
+        "Vigila las cámaras y administra los sistemas de la atracción.",
+        "Sobrevive a Springtrap y a los animatrónicos fantasma.",
+        "Incluye minijuegos y contenido adicional.",
+        "El desarrollador indica que se recomienda un dispositivo con al menos 2 GB de RAM."
+      ],
+      "links": [
+        {
+          "label": "Five Nights at Freddy's 3 v2.0.4 para Android",
+          "url": "https://www.mediafire.com/file/1g9fqgmvauy7jp5/fnaf-3_2.0.4.apk/file"
+        }
+      ],
+      "image": "fnaf-3-v2-0-4.png"
     }
   ]
 }
