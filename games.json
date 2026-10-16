@@ -135,6 +135,31 @@
       "image": "geometry-dash-2-2-144-mods.png"
     },
     {
+      "id": "geometry-dash-2-2-145-android",
+      "name": "Geometry Dash",
+      "version": "2.2.145",
+      "platform": "Android",
+      "category": "Ritmo y plataformas",
+      "icon": "🎮",
+      "short": "Geometry Dash 2.2.145 para Android, versión sin mods con niveles, música y desafíos de ritmo.",
+      "description": "Geometry Dash es un juego de acción y plataformas basado en el ritmo, donde debes superar niveles llenos de obstáculos sincronizados con la música. Esta publicación corresponde a la versión 2.2.145 para Android, presentada sin mods.",
+      "features": [
+        "Versión 2.2.145 para Android.",
+        "Versión presentada sin mods.",
+        "Niveles de plataformas con obstáculos y desafíos de precisión.",
+        "Jugabilidad basada en el ritmo y la música.",
+        "Editor para crear y compartir niveles personalizados.",
+        "Diferentes modos y niveles para poner a prueba tus reflejos."
+      ],
+      "links": [
+        {
+          "label": "Geometry Dash v2.2.145 para Android",
+          "url": "https://www.mediafire.com/file/ij56a8fzkxu4012/Geometry_Dash_2.2.145_By_DQ_GAMEPLAYS.apk/file"
+        }
+      ],
+      "image": "geometry-dash-2-2-145-android.jpg"
+    },
+    {
       "id": "geometry-dash-2-2081-pc",
       "name": "Geometry Dash",
       "version": "2.2081",
