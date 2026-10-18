@@ -924,6 +924,30 @@
         }
       ],
       "image": "fnaf-3-v2-0-4.png"
+    },
+    {
+      "id": "geometry-dash-2-2091-pc",
+      "name": "Geometry Dash",
+      "version": "2.2091",
+      "platform": "PC y Laptop",
+      "category": "Ritmo y plataformas",
+      "icon": "🎮",
+      "short": "Geometry Dash 2.2091 para PC y laptop, con niveles de plataformas, música y desafíos de ritmo.",
+      "description": "Geometry Dash es un juego de acción y plataformas basado en el ritmo. Supera obstáculos sincronizados con la música, domina niveles desafiantes y crea tus propios niveles. Esta publicación corresponde a la versión 2.2091 para PC y laptop.",
+      "features": [
+        "Versión 2.2091 para PC y laptop.",
+        "Niveles de plataformas con obstáculos y desafíos de precisión.",
+        "Jugabilidad basada en el ritmo y la música.",
+        "Editor para crear niveles personalizados.",
+        "Diferentes modos y niveles para poner a prueba tus reflejos."
+      ],
+      "links": [
+        {
+          "label": "Geometry Dash 2.2091 para PC",
+          "url": "https://www.mediafire.com/file/ufcnrktpgcyru8w/Geometry_Dash_2.2091_-_BY_DQ_GAMEPLAYS.rar/file"
+        }
+      ],
+      "image": "geometry-dash-2-2091-pc.jpg"
     }
   ]
 }
