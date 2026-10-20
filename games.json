@@ -926,6 +926,29 @@
       "image": "fnaf-3-v2-0-4.png"
     },
     {
+      "id": "fnaf-4-v2-0-4",
+      "name": "Five Nights at Freddy's 4",
+      "version": "2.0.4",
+      "platform": "Android",
+      "category": "Terror y supervivencia",
+      "icon": "🎮",
+      "short": "Five Nights at Freddy's 4 v2.0.4 para Android, una experiencia de terror y supervivencia frente a los animatrónicos de las pesadillas.",
+      "description": "Five Nights at Freddy's 4 es un juego de terror y supervivencia en el que debes prestar atención a los sonidos y revisar los accesos para evitar a los animatrónicos de pesadilla. Esta ficha corresponde a la versión 2.0.4 para Android.",
+      "features": [
+        "Versión 2.0.4 para Android.",
+        "Sobrevive a encuentros con animatrónicos de pesadilla.",
+        "Presta atención a los sonidos para detectar amenazas cercanas.",
+        "Revisa los accesos y actúa con cuidado para sobrevivir."
+      ],
+      "links": [
+        {
+          "label": "Five Nights at Freddy's 3 v2.0.4 para Android",
+          "url": "https://www.mediafire.com/file/fkdoodgxdx0eswi/fnaf-4_2.0.4.apk/file"
+        }
+      ],
+      "image": "fnaf-4-v2-0-4.png"
+    },
+    {
       "id": "geometry-dash-2-2091-pc",
       "name": "Geometry Dash",
       "version": "2.2091",
