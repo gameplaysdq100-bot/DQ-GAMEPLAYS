@@ -971,6 +971,29 @@
         }
       ],
       "image": "geometry-dash-2-2091-pc.jpg"
+    },
+    {
+      "id": "the-bloop-addon-minecraft",
+      "name": "The Bloop Addon para Minecraft",
+      "version": "Addon",
+      "platform": "Minecraft Bedrock",
+      "category": "Minecraft: addons y complementos",
+      "icon": "🦈",
+      "short": "The Bloop, un addon para Minecraft inspirado en una criatura marina gigante.",
+      "description": "The Bloop es un addon para Minecraft que incorpora una criatura marina gigante y una temática de exploración submarina. Revisa la compatibilidad con tu versión de Minecraft Bedrock antes de instalarlo.",
+      "features": [
+        "Addon temático para Minecraft.",
+        "Criatura marina gigante inspirada en The Bloop.",
+        "Contenido orientado a la exploración submarina.",
+        "Comprueba la compatibilidad con tu versión de Minecraft Bedrock antes de instalarlo."
+      ],
+      "links": [
+        {
+          "label": "The Bloop Addon de Minecraft",
+          "url": "https://www.mediafire.com/file/c9pq822038x22og/The_Bloop.mcaddon/file"
+        }
+      ],
+      "image": "the-bloop-addon-minecraft.png"
     }
   ]
 }
