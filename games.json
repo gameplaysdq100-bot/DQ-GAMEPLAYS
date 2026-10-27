@@ -1,6 +1,30 @@
 {
   "games": [
     {
+      "id": "minecraft-26-60-android",
+      "name": "Minecraft",
+      "version": "26.60",
+      "platform": "Android",
+      "category": "Aventura y construcción",
+      "icon": "🎮",
+      "short": "Minecraft 26.60 para Android, explora mundos, construye y sobrevive en una aventura de bloques.",
+      "description": "Minecraft para Android es una aventura de mundo abierto en la que puedes explorar biomas, reunir recursos, construir estructuras y sobrevivir. Esta ficha está identificada con la versión 26.60 solicitada por DQ GAMEPLAYS; comprueba la versión y compatibilidad en la fuente de descarga antes de instalar.",
+      "features": [
+        "Versión indicada: 26.60.",
+        "Plataforma Android.",
+        "Explora mundos generados y distintos biomas.",
+        "Reúne recursos, fabrica objetos y construye.",
+        "Sobrevive o juega de forma creativa."
+      ],
+      "links": [
+        {
+          "label": "Minecraft para Android",
+          "url": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+        }
+      ],
+      "image": "minecraft-26-60.jpg"
+    },
+    {
       "id": "fnaf-sister-location-v2-0-5",
       "name": "Five Nights at Freddy's: Sister Location",
       "version": "2.0.5",
@@ -16,9 +40,13 @@
         "Experiencia de terror con exploración y tensión."
       ],
       "links": [
+         {
+          "label": "Minecraft 26.60 + Música",
+          "url": "https://www.mediafire.com/file/j3wr79c6n5p6egj/minecraft-1.26.60.music.apk/file"
+        },
         {
-          "label": "Five Nights at Freddy's: Sister Location v2.0.5 para Android",
-          "url": "https://www.mediafire.com/file/n6sq4gal890iu96/fnaf-5-sl_2.0.5.apk/file"
+          "label": "Minecraft 26.60",
+          "url": "https://www.mediafire.com/file/oenyvjwsxoyd6ln/minecraft-1.26.60-no-music.apk/file"
         }
       ],
       "image": "fnaf-sister-location-v2-0-5.jpg"
