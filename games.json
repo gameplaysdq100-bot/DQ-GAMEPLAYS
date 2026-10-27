@@ -1,6 +1,29 @@
 {
   "games": [
     {
+      "id": "fnaf-sister-location-v2-0-5",
+      "name": "Five Nights at Freddy's: Sister Location",
+      "version": "2.0.5",
+      "platform": "Android",
+      "category": "Terror y supervivencia",
+      "icon": "🎮",
+      "short": "Five Nights at Freddy's: Sister Location v2.0.5 para Android: explora las instalaciones subterráneas y sobrevive a los animatrónicos.",
+      "description": "Five Nights at Freddy's: Sister Location es un juego de terror y supervivencia ambientado en una instalación subterránea donde debes completar tareas y evitar a los animatrónicos. Esta ficha corresponde a la versión 2.0.5 para Android.",
+      "features": [
+        "Versión 2.0.5 para Android.",
+        "Explora las instalaciones y completa tareas nocturnas.",
+        "Evita a los animatrónicos y sigue las instrucciones para sobrevivir.",
+        "Experiencia de terror con exploración y tensión."
+      ],
+      "links": [
+        {
+          "label": "Five Nights at Freddy's: Sister Location v2.0.5 para Android",
+          "url": "https://www.mediafire.com/file/n6sq4gal890iu96/fnaf-5-sl_2.0.5.apk/file"
+        }
+      ],
+      "image": "fnaf-sister-location-v2-0-5.jpg"
+    },
+    {
       "id": "minecraft-26-45",
       "name": "Minecraft",
       "version": "26.45",
