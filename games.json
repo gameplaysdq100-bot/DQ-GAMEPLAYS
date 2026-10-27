@@ -18,8 +18,12 @@
       ],
       "links": [
         {
-          "label": "Minecraft para Android",
-          "url": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+          "label": "Minecraft 26.60 + Música",
+          "url": "https://www.mediafire.com/file/j3wr79c6n5p6egj/minecraft-1.26.60.music.apk/file"
+        },
+        {
+          "label": "Minecraft 26.60",
+          "url": "https://www.mediafire.com/file/oenyvjwsxoyd6ln/minecraft-1.26.60-no-music.apk/file"
         }
       ],
       "image": "minecraft-26-60.jpg"
@@ -40,13 +44,9 @@
         "Experiencia de terror con exploración y tensión."
       ],
       "links": [
-         {
-          "label": "Minecraft 26.60 + Música",
-          "url": "https://www.mediafire.com/file/j3wr79c6n5p6egj/minecraft-1.26.60.music.apk/file"
-        },
         {
-          "label": "Minecraft 26.60",
-          "url": "https://www.mediafire.com/file/oenyvjwsxoyd6ln/minecraft-1.26.60-no-music.apk/file"
+          "label": "Five Nights at Freddy's Sister Location v2.0.5 para Android",
+          "url": "https://www.mediafire.com/file/n6sq4gal890iu96/fnaf-5-sl_2.0.5.apk/file"
         }
       ],
       "image": "fnaf-sister-location-v2-0-5.jpg"
