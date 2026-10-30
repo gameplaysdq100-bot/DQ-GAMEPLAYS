@@ -927,6 +927,29 @@
       "image": "actions-and-stuff-1-12.jpg"
     },
     {
+      "id": "actions-and-stuff-1-13",
+      "name": "Actions & Stuff",
+      "version": "1.13",
+      "platform": "Minecraft Bedrock",
+      "category": "Recursos y animación",
+      "icon": "🎮",
+      "short": "Actions & Stuff 1.13 para Minecraft, un paquete de recursos que renueva la apariencia y las animaciones del juego.",
+      "description": "Actions & Stuff 1.13 es un paquete de recursos para Minecraft Bedrock. Esta ficha corresponde a la versión 1.13 indicada por DQ GAMEPLAYS. Comprueba la compatibilidad con tu versión de Minecraft antes de instalarlo.",
+      "features": [
+        "Versión 1.13 de Actions & Stuff.",
+        "Paquete de recursos para Minecraft Bedrock.",
+        "Incluye cambios visuales y de animación propios del paquete.",
+        "Comprueba la compatibilidad con tu versión de Minecraft Bedrock antes de instalarlo."
+      ],
+      "links": [
+        {
+          "label": "Actions & Stuff 1.12",
+          "url": "https://www.mediafire.com/file/k5cs8dvnkhcmh5l/Action_Stuff_1.13_by_DQ_GAMEPLAYS.mcpack/file"
+        }
+      ],
+      "image": "actions-and-stuff-1-13.jpg"
+    },
+    {
       "id": "poppy-playtime-capitulo-5-pc",
       "name": "Poppy Playtime Capítulo 5",
       "version": "PC y Laptop",
