@@ -801,6 +801,33 @@
       "image": "minecraft-patched-26-52.png"
     },
     {
+      "id": "minecraft-patched-26-60",
+      "name": "Minecraft Patched",
+      "version": "26.60",
+      "platform": "Android",
+      "category": "Aventura y construcción",
+      "icon": "⛏️",
+      "short": "Minecraft Patched 26.60 para Android, una versión modificada orientada al uso de shaders compatibles.",
+      "description": "Minecraft Patched 26.60 es una versión modificada para Android basada en Minecraft Bedrock 26.60. Esta edición Patched está orientada al uso de shaders compatibles. La compatibilidad puede variar según el shader, el dispositivo y la configuración utilizada.",
+      "features": [
+        "Basado en Minecraft Bedrock 26.60.",
+        "Versión Patched para Android.",
+        "Orientado al uso de shaders compatibles con la versión 26.60.",
+        "La compatibilidad de cada shader puede variar según el dispositivo y el propio shader."
+      ],
+      "links": [
+        {
+          "label": "Minecraft Patched 26.60 + Música",
+          "url": "https://www.mediafire.com/file/l7j7jhu58pkpld0/Minecraft-patched-1.26.60-Musica.apk/file"
+        },
+        {
+          "label": "Minecraft Patched 26.60 SIN Música",
+          "url": "https://www.mediafire.com/file/hjpx4w9pxqi637m/Minecraft-Patched-1.26.60.apk/file"
+        }
+      ],
+      "image": "minecraft-patched-26-60.png"
+    },
+    {
       "id": "human-fall-flat-2-7",
       "name": "Human Fall Flat",
       "version": "2.7",
