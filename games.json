@@ -1095,6 +1095,30 @@
         }
       ],
       "image": "the-bloop-addon-minecraft.png"
+    },
+    {
+      "id": "ppsspp-gold-1-20-4",
+      "name": "PPSSPP Gold",
+      "version": "1.20.4",
+      "platform": "Android",
+      "category": "Emuladores",
+      "icon": "🎮",
+      "short": "PPSSPP Gold 1.20.4 para Android, emulador para ejecutar juegos de PSP en dispositivos móviles.",
+      "description": "PPSSPP Gold es la edición de pago del emulador PPSSPP para Android. Permite ejecutar copias de juegos de PlayStation Portable (PSP) en dispositivos compatibles. El emulador no incluye juegos; debes utilizar copias de tus propios juegos y respetar sus derechos de distribución.",
+      "features": [
+        "Versión 1.20.4 para Android.",
+        "Emula juegos de PlayStation Portable (PSP).",
+        "Permite ajustar opciones gráficas y de rendimiento según el dispositivo.",
+        "Admite controles táctiles y mandos compatibles.",
+        "No incluye juegos; se deben añadir copias propias."
+      ],
+      "links": [
+        {
+          "label": "PPSSPP GOLD 1.20.4",
+          "url": "https://www.mediafire.com/file/ljoo1xmg1j2zxjf/ppsspp_gold_v1.20.4.apk/file"
+        }
+      ],
+      "image": "ppsspp-gold-1-20-4.png"
     }
   ]
 }
