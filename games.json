@@ -1119,6 +1119,32 @@
         }
       ],
       "image": "ppsspp-gold-1-20-4.png"
+    },
+    {
+      "id": "minecraft-26-62",
+      "name": "Minecraft",
+      "version": "26.62",
+      "platform": "Android",
+      "category": "Aventura y construcción",
+      "icon": "⛏️",
+      "short": "Minecraft 26.62 para Android, última versión.",
+      "description": "Minecraft 26.62 para Android. Consulta los requisitos y la compatibilidad de tu dispositivo antes de instalar.",
+      "features": [
+        "Versión 26.62 para Android.",
+        "Compatible con dispositivos Android que cumplan los requisitos del juego.",
+        "Revisa la compatibilidad y los requisitos antes de instalar."
+      ],
+      "links": [
+        {
+          "label": "Minecraft 26.62 + Música",
+          "url": "https://www.mediafire.com/file/nmuthk4slhs6pn8/minecraft-1.26.62-musica.apk/file"
+        },
+        {
+          "label": "Minecraft 26.62",
+          "url": "https://www.mediafire.com/file/g0lu0gcepjul384/minecraft-1.26.62.apk/file"
+        }
+      ],
+      "image": "minecraft-26-62.png"
     }
   ]
 }
