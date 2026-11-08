@@ -1,6 +1,32 @@
 {
   "games": [
     {
+      "id": "minecraft-26-62",
+      "name": "Minecraft",
+      "version": "26.62",
+      "platform": "Android",
+      "category": "Aventura y construcción",
+      "icon": "⛏️",
+      "short": "Minecraft 26.62 para Android, última versión.",
+      "description": "Minecraft 26.62 para Android. Consulta los requisitos y la compatibilidad de tu dispositivo antes de instalar.",
+      "features": [
+        "Versión 26.62 para Android.",
+        "Compatible con dispositivos Android que cumplan los requisitos del juego.",
+        "Revisa la compatibilidad y los requisitos antes de instalar."
+      ],
+      "links": [
+        {
+          "label": "Minecraft 26.62 + Música",
+          "url": "https://www.mediafire.com/file/nmuthk4slhs6pn8/minecraft-1.26.62-musica.apk/file"
+        },
+        {
+          "label": "Minecraft 26.62",
+          "url": "https://www.mediafire.com/file/g0lu0gcepjul384/minecraft-1.26.62.apk/file"
+        }
+      ],
+      "image": "minecraft-26-62.png"
+    },
+    {
       "id": "minecraft-26-60-android",
       "name": "Minecraft",
       "version": "26.60",
@@ -29,27 +55,183 @@
       "image": "minecraft-26-60.jpg"
     },
     {
-      "id": "fnaf-sister-location-v2-0-5",
-      "name": "Five Nights at Freddy's: Sister Location",
-      "version": "2.0.5",
+      "id": "minecraft-patched-26-60",
+      "name": "Minecraft Patched",
+      "version": "26.60",
       "platform": "Android",
-      "category": "Terror y supervivencia",
-      "icon": "🎮",
-      "short": "Five Nights at Freddy's: Sister Location v2.0.5 para Android: explora las instalaciones subterráneas y sobrevive a los animatrónicos.",
-      "description": "Five Nights at Freddy's: Sister Location es un juego de terror y supervivencia ambientado en una instalación subterránea donde debes completar tareas y evitar a los animatrónicos. Esta ficha corresponde a la versión 2.0.5 para Android.",
+      "category": "Aventura y construcción",
+      "icon": "⛏️",
+      "short": "Minecraft Patched 26.60 para Android, una versión modificada orientada al uso de shaders compatibles.",
+      "description": "Minecraft Patched 26.60 es una versión modificada para Android basada en Minecraft Bedrock 26.60. Esta edición Patched está orientada al uso de shaders compatibles. La compatibilidad puede variar según el shader, el dispositivo y la configuración utilizada.",
       "features": [
-        "Versión 2.0.5 para Android.",
-        "Explora las instalaciones y completa tareas nocturnas.",
-        "Evita a los animatrónicos y sigue las instrucciones para sobrevivir.",
-        "Experiencia de terror con exploración y tensión."
+        "Basado en Minecraft Bedrock 26.60.",
+        "Versión Patched para Android.",
+        "Orientado al uso de shaders compatibles con la versión 26.60.",
+        "La compatibilidad de cada shader puede variar según el dispositivo y el propio shader."
       ],
       "links": [
         {
-          "label": "Five Nights at Freddy's Sister Location v2.0.5 para Android",
-          "url": "https://www.mediafire.com/file/n6sq4gal890iu96/fnaf-5-sl_2.0.5.apk/file"
+          "label": "Minecraft Patched 26.60 + Música",
+          "url": "https://www.mediafire.com/file/l7j7jhu58pkpld0/Minecraft-patched-1.26.60-Musica.apk/file"
+        },
+        {
+          "label": "Minecraft Patched 26.60 SIN Música",
+          "url": "https://www.mediafire.com/file/hjpx4w9pxqi637m/Minecraft-Patched-1.26.60.apk/file"
         }
       ],
-      "image": "fnaf-sister-location-v2-0-5.jpg"
+      "image": "minecraft-patched-26-60.png"
+    },
+    {
+      "id": "minecraft-26-52",
+      "name": "Minecraft",
+      "version": "26.52",
+      "platform": "Android",
+      "category": "Aventura y construcción",
+      "icon": "⛏️",
+      "short": "Minecraft 26.52 para Android, una actualización hotfix con correcciones de estabilidad, gráficos, jugabilidad y complementos.",
+      "description": "Minecraft es un videojuego de construcción, exploración y aventura en un mundo formado por bloques. La versión 26.52 para Android corresponde a una actualización hotfix de Bedrock con diversas correcciones de estabilidad, gráficos, jugabilidad, interfaz y complementos.",
+      "features": [
+        "Versión 26.52 para Android.",
+        "Actualización hotfix de Minecraft Bedrock.",
+        "Mejoras de estabilidad y rendimiento.",
+        "Correcciones gráficas relacionadas con texturas y hardware compatible.",
+        "Correcciones de jugabilidad en el modo Espectador y otros elementos del mundo.",
+        "Correcciones para determinados complementos y mundos antiguos.",
+        "Mejoras y correcciones en la interfaz de usuario."
+      ],
+      "links": [
+        {
+          "label": "Minecraft 26.52 + Música",
+          "url": "https://www.mediafire.com/file/d5yjq9qbsh55swq/minecraft-1.26.52.3-musica.apk/file"
+        },
+        {
+          "label": "Minecraft 26.52 SIN Música",
+          "url": "https://www.mediafire.com/file/qxor21sz4r0k3o8/minecraft-1.26.52.3.apk/file"
+        }
+      ],
+      "image": "minecraft-26-52.png"
+    },
+    {
+      "id": "minecraft-patched-26-52",
+      "name": "Minecraft Patched",
+      "version": "26.52",
+      "platform": "Android",
+      "category": "Aventura y construcción",
+      "icon": "⛏️",
+      "short": "Minecraft Patched 26.52 para Android, basado en la versión 26.52 y orientado al uso de shaders compatibles.",
+      "description": "Minecraft Patched 26.52 es una versión modificada para Android basada en Minecraft Bedrock 26.52. La versión 26.52 es un hotfix que incluye correcciones de estabilidad, gráficos, jugabilidad, complementos e interfaz. Esta edición Patched está orientada al uso de shaders compatibles; la compatibilidad puede variar según el shader, el dispositivo y la configuración utilizada.",
+      "features": [
+        "Basado en Minecraft Bedrock 26.52.",
+        "Versión Patched para Android.",
+        "Orientado al uso de shaders compatibles con la versión 26.52.",
+        "Mejoras de estabilidad para Nintendo Switch conectado a una red y corrección de un problema que impedía iniciar el juego en algunos dispositivos iOS.",
+        "Correcciones gráficas relacionadas con la detección de texturas cube-map array en hardware gráfico antiguo de Windows.",
+        "Corrección de objetos del inventario que podían aparecer invisibles con determinados ajustes de brillo y anti-aliasing.",
+        "En el modo Espectador, los jugadores ya no reciben impactos de proyectiles.",
+        "Corrección de cojines que podían desaparecer al recargar chunks descargados.",
+        "Corrección de un problema con mundos antiguos que tenían complementos del Marketplace activados y podían perder los logros desde la versión 26.50.",
+        "Mejoras en la interfaz durante la primera configuración al iniciar un mundo multijugador."
+      ],
+      "links": [
+        {
+          "label": "Minecraft Patched 26.52 + Música",
+          "url": "https://www.mediafire.com/file/axs1t3lwfhpt5p2/Minecraft-Patched-1.26.52-musica.apk/file"
+        },
+        {
+          "label": "Minecraft Patched 26.52 SIN Música",
+          "url": "https://www.mediafire.com/file/do26207qx2fzvn4/Minecraft-Patched-1.26.52.apk/file"
+        }
+      ],
+      "image": "minecraft-patched-26-52.png"
+    },
+    {
+      "id": "minecraft-26-51",
+      "name": "Minecraft",
+      "version": "26.51",
+      "platform": "Android",
+      "category": "Aventura y construcción",
+      "icon": "⛏️",
+      "short": "Minecraft 26.51 para Android, actualización hotfix con correcciones de estabilidad y rendimiento.",
+      "description": "Minecraft 26.51 para Android corresponde a una actualización hotfix de Bedrock. Según el changelog oficial, corrige un fallo que podía provocar un cierre inesperado al cargar mundos con estructuras de bloques grandes y densamente conectadas.",
+      "features": [
+        "Versión 26.51 para Android.",
+        "Hotfix de Minecraft Bedrock.",
+        "Corrección de un cierre inesperado al cargar ciertos mundos.",
+        "Mejoras de estabilidad y rendimiento.",
+        "Incluye la actualización oficial más reciente de la rama 26.51."
+      ],
+      "links": [
+        {
+          "label": "Minecraft 26.51 + Música",
+          "url": "https://www.mediafire.com/file/ycl5w7jrj2jaque/minecraft-1.26.51.1-Musica.apk/file"
+        },
+        {
+          "label": "Minecraft 26.51 SIN Música",
+          "url": "https://www.mediafire.com/file/0i9pwlgolmf740d/minecraft-1.26.51.1.apk/file"
+        }
+      ],
+      "image": "minecraft-26-51.png"
+    },
+    {
+      "id": "minecraft-patched-26-51",
+      "name": "Minecraft Patched",
+      "version": "26.51",
+      "platform": "Android",
+      "category": "Aventura y construcción",
+      "icon": "⛏️",
+      "short": "Minecraft Patched 26.51 para Android, basado en la versión 26.51 y orientado al uso de shaders compatibles.",
+      "description": "Minecraft Patched 26.51 es una versión modificada para Android basada en Minecraft Bedrock 26.51. La versión 26.51 es un hotfix que incluye correcciones de estabilidad y rendimiento; esta edición Patched está orientada al uso de shaders compatibles. La compatibilidad puede variar según el shader, el dispositivo y la configuración utilizada.",
+      "features": [
+        "Basado en Minecraft Bedrock 26.51.",
+        "Versión Patched para Android.",
+        "Orientado al uso de shaders compatibles con la versión 26.51.",
+        "Incluye las correcciones de estabilidad y rendimiento de la actualización 26.51.",
+        "Corrección de un cierre inesperado al cargar determinados mundos con estructuras de bloques grandes y densamente conectadas.",
+        "La compatibilidad de cada shader puede variar según el dispositivo y el propio shader."
+      ],
+      "links": [
+        {
+          "label": "Minecraft Patched 26.51 + Música",
+          "url": "https://www.mediafire.com/file/j18xgt5a7h2rkpe/Minecraft-patched-26.51-musica.apk/file"
+        },
+        {
+          "label": "Minecraft Patched 26.51 SIN Música",
+          "url": "https://www.mediafire.com/file/qtyycmcz89otnjs/Minecraft-patched-26.51.apk/file"
+        }
+      ],
+      "image": "minecraft-patched-26-51.png"
+    },
+    {
+      "id": "minecraft-26-50",
+      "name": "Minecraft",
+      "version": "26.50",
+      "platform": "Android",
+      "category": "Aventura y construcción",
+      "icon": "⛏️",
+      "short": "Minecraft 26.50 para Android, la actualización Wilderness Bound con nuevos contenidos de exploración, estructuras y elementos para el mundo.",
+      "description": "Minecraft es un videojuego de construcción, exploración y aventura en un mundo formado por bloques. La versión 26.50, conocida como Wilderness Bound, añade nuevas formas de explorar la naturaleza, incluyendo el bosque moteado, campamentos abandonados, árboles de álamo, cojines y camas de paja, además de nuevos bloques y diversos ajustes y correcciones.",
+      "features": [
+        "Versión 26.50 para Android.",
+        "Nuevo bioma Bosque Moteado (Dappled Forest), con árboles de álamo, hongos de estantería y arbustos rojos.",
+        "Nuevas estructuras de Campamentos Abandonados con cofres, barriles, botín y mapas de explorador.",
+        "Nuevos Árboles de Álamo con hojas rojas, naranjas y amarillas y nuevos bloques de madera de álamo.",
+        "Nuevos Cojines disponibles en 16 colores, que se pueden colocar y usar para sentarse.",
+        "Nuevas Camas de Paja que permiten dormir una vez sin cambiar el punto de aparición.",
+        "Nuevas Escaleras y Losas de Lana y de Concreto en los 16 colores.",
+        "Nuevo Hongo de Estantería, que aparece sobre los árboles de álamo y puede utilizarse para preparar guisos.",
+        "Correcciones y mejoras de estabilidad, interfaz, gráficos y jugabilidad."
+      ],
+      "links": [
+        {
+          "label": "Minecraft 26.50 + Música",
+          "url": "https://www.mediafire.com/file/ga1mz3hwvyxuul8/minecraft-1.26.50.4-musica.apk/file"
+        },
+        {
+          "label": "Minecraft 26.50 SIN Música",
+          "url": "https://www.mediafire.com/file/g8dtswc7525ocht/minecraft-1.26.50.4.apk/file"
+        }
+      ],
+      "image": "minecraft-26-50.jpg"
     },
     {
       "id": "minecraft-26-45",
@@ -111,6 +293,104 @@
       "image": "minecraft-patched-26-45.png"
     },
     {
+      "id": "geometry-dash-2-2091-pc",
+      "name": "Geometry Dash",
+      "version": "2.2091",
+      "platform": "PC y Laptop",
+      "category": "Ritmo y plataformas",
+      "icon": "🎮",
+      "short": "Geometry Dash 2.2091 para PC y laptop, con niveles de plataformas, música y desafíos de ritmo.",
+      "description": "Geometry Dash es un juego de acción y plataformas basado en el ritmo. Supera obstáculos sincronizados con la música, domina niveles desafiantes y crea tus propios niveles. Esta publicación corresponde a la versión 2.2091 para PC y laptop.",
+      "features": [
+        "Versión 2.2091 para PC y laptop.",
+        "Niveles de plataformas con obstáculos y desafíos de precisión.",
+        "Jugabilidad basada en el ritmo y la música.",
+        "Editor para crear niveles personalizados.",
+        "Diferentes modos y niveles para poner a prueba tus reflejos."
+      ],
+      "links": [
+        {
+          "label": "Geometry Dash 2.2091 para PC",
+          "url": "https://www.mediafire.com/file/ufcnrktpgcyru8w/Geometry_Dash_2.2091_-_BY_DQ_GAMEPLAYS.rar/file"
+        }
+      ],
+      "image": "geometry-dash-2-2091-pc.jpg"
+    },
+    {
+      "id": "geometry-dash-2-2081-pc",
+      "name": "Geometry Dash",
+      "version": "2.2081",
+      "platform": "PC",
+      "category": "Ritmo y plataformas",
+      "icon": "🎮",
+      "short": "Geometry Dash v2.2081 para PC, con sus niveles, música y desafíos de ritmo.",
+      "description": "Geometry Dash es un juego de acción y plataformas basado en el ritmo, donde debes superar niveles llenos de obstáculos sincronizados con la música. Esta publicación corresponde a la versión 2.2081 para PC.",
+      "features": [
+        "Versión 2.2081 para PC.",
+        "Niveles de plataformas con obstáculos y desafíos de precisión.",
+        "Jugabilidad basada en el ritmo y la música.",
+        "Editor para crear niveles personalizados.",
+        "Diferentes modos y niveles para poner a prueba tus reflejos."
+      ],
+      "links": [
+        {
+          "label": "Geometry Dash v2.2081 para PC",
+          "url": "https://www.mediafire.com/file/gvggwuddebhspz0/Geometry-Dash-2.2081.rar/file"
+        }
+      ],
+      "image": "geometry-dash-2-2081-pc.png"
+    },
+    {
+      "id": "gta-san-andreas-2-11-311",
+      "name": "GTA San Andreas",
+      "version": "2.11.311",
+      "platform": "Android",
+      "category": "Acción y aventura",
+      "icon": "🎮",
+      "short": "Grand Theft Auto: San Andreas 2.11.311 para Android, con la actualización oficial de enero de 2026.",
+      "description": "Grand Theft Auto: San Andreas es un juego de acción y aventura de mundo abierto de Rockstar Games. La versión Android 2.11.311 fue publicada el 21 de enero de 2026 e incluye una corrección para un problema que podía provocar un cierre inesperado al descargar los recursos del juego.",
+      "features": [
+        "Versión Android 2.11.311.",
+        "Corrección de un problema que podía causar un cierre al descargar recursos del juego.",
+        "Mundo abierto con Los Santos, San Fierro y Las Venturas.",
+        "Historia protagonizada por Carl Johnson (CJ).",
+        "Controles táctiles personalizables y compatibilidad con determinados mandos.",
+        "Guardado en la nube para usuarios compatibles con Rockstar Games Social Club."
+      ],
+      "links": [
+        {
+          "label": "GTA San Andreas 2.11.311 para Android",
+          "url": "https://www.mediafire.com/file/on1ys5y8ktcht6o/GTA_San_Andreas_-_v2.11.311.apk/file"
+        }
+      ],
+      "image": "gta-san-andreas-2-11-311.jpg"
+    },
+    {
+      "id": "human-fall-flat-2-7",
+      "name": "Human Fall Flat",
+      "version": "2.7",
+      "platform": "Android",
+      "category": "Puzzle y plataformas",
+      "icon": "🤸",
+      "short": "Human Fall Flat 2.7 para Android, con nuevos niveles y multijugador cooperativo.",
+      "description": "Human Fall Flat es un juego de plataformas y puzzles basado en físicas. La versión 2.7 para Android incluye el contenido disponible de esta versión y permite jugar en solitario o con hasta 4 jugadores en el modo multijugador online.",
+      "features": [
+        "Versión 2.7 para Android.",
+        "Juego de plataformas y puzzles basado en físicas.",
+        "Multijugador online cooperativo de hasta 4 jugadores.",
+        "Niveles con diferentes rutas, obstáculos y mecanismos.",
+        "Personalización del personaje con distintos atuendos.",
+        "Nuevos niveles y contenido gratuito disponible para la comunidad."
+      ],
+      "links": [
+        {
+          "label": "Human Fall Flat 2.7 para Android",
+          "url": "https://www.mediafire.com/file/qpdbs7sglttlnen/Human-Fall-Flat-v2.7.apk/file"
+        }
+      ],
+      "image": "human-fall-flat-2-7.png"
+    },
+    {
       "id": "human-fall-flat-2-6",
       "name": "Human Fall Flat",
       "version": "2.6",
@@ -134,56 +414,6 @@
         }
       ],
       "image": "human-fall-flat-2-6.png"
-    },
-    {
-      "id": "geometry-dash-2-2-144",
-      "name": "Geometry Dash",
-      "version": "2.2.144",
-      "platform": "Android",
-      "category": "Ritmo y plataformas",
-      "icon": "🎮",
-      "short": "Geometry Dash 2.2.144 para Android, sin mods, con niveles, música y desafíos de ritmo.",
-      "description": "Geometry Dash es un juego de acción y plataformas basado en el ritmo, donde debes controlar un personaje y superar niveles llenos de obstáculos sincronizados con la música. Esta publicación corresponde a la versión 2.2.144 para Android y se presenta sin modificaciones.",
-      "features": [
-        "Versión 2.2.144 para Android.",
-        "Versión presentada sin mods.",
-        "Niveles de plataformas con obstáculos y desafíos de precisión.",
-        "Jugabilidad basada en el ritmo y la música.",
-        "Editor para crear y compartir niveles personalizados.",
-        "Diferentes modos y niveles para poner a prueba tus reflejos."
-      ],
-      "links": [
-        {
-          "label": "Geometry Dash 2.2.144 SIN MODS",
-          "url": "https://www.mediafire.com/file/cirbxuyei4zzzgm/Geometry_Dash_2.2.144.apk/file"
-        }
-      ],
-      "image": "geometry-dash-2-2-144.jpg"
-    },
-    {
-      "id": "geometry-dash-2-2-144-mods",
-      "name": "Geometry Dash",
-      "version": "2.2.144 CON MODS",
-      "platform": "Android",
-      "category": "Ritmo y plataformas",
-      "icon": "🎮",
-      "short": "Geometry Dash v2.2.144 para Android con mods, con niveles, música y desafíos de ritmo.",
-      "description": "Geometry Dash es un juego de acción y plataformas basado en el ritmo. Esta publicación corresponde a la versión 2.2.144 para Android y está presentada como una versión con mods, según la información proporcionada para esta publicación.",
-      "features": [
-        "Versión 2.2.144 para Android.",
-        "Versión presentada con mods.",
-        "Niveles de plataformas con obstáculos y desafíos de precisión.",
-        "Jugabilidad basada en el ritmo y la música.",
-        "Editor para crear y compartir niveles personalizados.",
-        "Diferentes modos y niveles para poner a prueba tus reflejos."
-      ],
-      "links": [
-        {
-          "label": "Geometry Dash v2.2.144 CON MODS",
-          "url": "https://www.mediafire.com/file/bue3giyr8dzkzid/geometry-dash-mod_2.2.144.apk/file"
-        }
-      ],
-      "image": "geometry-dash-2-2-144-mods.png"
     },
     {
       "id": "geometry-dash-2-2-145-android",
@@ -236,28 +466,319 @@
       "image": "geometry-dash-2-2-145-mods-android.jpg"
     },
     {
-      "id": "geometry-dash-2-2081-pc",
+      "id": "geometry-dash-2-2-144",
       "name": "Geometry Dash",
-      "version": "2.2081",
-      "platform": "PC",
+      "version": "2.2.144",
+      "platform": "Android",
       "category": "Ritmo y plataformas",
       "icon": "🎮",
-      "short": "Geometry Dash v2.2081 para PC, con sus niveles, música y desafíos de ritmo.",
-      "description": "Geometry Dash es un juego de acción y plataformas basado en el ritmo, donde debes superar niveles llenos de obstáculos sincronizados con la música. Esta publicación corresponde a la versión 2.2081 para PC.",
+      "short": "Geometry Dash 2.2.144 para Android, sin mods, con niveles, música y desafíos de ritmo.",
+      "description": "Geometry Dash es un juego de acción y plataformas basado en el ritmo, donde debes controlar un personaje y superar niveles llenos de obstáculos sincronizados con la música. Esta publicación corresponde a la versión 2.2.144 para Android y se presenta sin modificaciones.",
       "features": [
-        "Versión 2.2081 para PC.",
+        "Versión 2.2.144 para Android.",
+        "Versión presentada sin mods.",
         "Niveles de plataformas con obstáculos y desafíos de precisión.",
         "Jugabilidad basada en el ritmo y la música.",
-        "Editor para crear niveles personalizados.",
+        "Editor para crear y compartir niveles personalizados.",
         "Diferentes modos y niveles para poner a prueba tus reflejos."
       ],
       "links": [
         {
-          "label": "Geometry Dash v2.2081 para PC",
-          "url": "https://www.mediafire.com/file/gvggwuddebhspz0/Geometry-Dash-2.2081.rar/file"
+          "label": "Geometry Dash 2.2.144 SIN MODS",
+          "url": "https://www.mediafire.com/file/cirbxuyei4zzzgm/Geometry_Dash_2.2.144.apk/file"
         }
       ],
-      "image": "geometry-dash-2-2081-pc.png"
+      "image": "geometry-dash-2-2-144.jpg"
+    },
+    {
+      "id": "geometry-dash-2-2-144-mods",
+      "name": "Geometry Dash",
+      "version": "2.2.144 CON MODS",
+      "platform": "Android",
+      "category": "Ritmo y plataformas",
+      "icon": "🎮",
+      "short": "Geometry Dash v2.2.144 para Android con mods, con niveles, música y desafíos de ritmo.",
+      "description": "Geometry Dash es un juego de acción y plataformas basado en el ritmo. Esta publicación corresponde a la versión 2.2.144 para Android y está presentada como una versión con mods, según la información proporcionada para esta publicación.",
+      "features": [
+        "Versión 2.2.144 para Android.",
+        "Versión presentada con mods.",
+        "Niveles de plataformas con obstáculos y desafíos de precisión.",
+        "Jugabilidad basada en el ritmo y la música.",
+        "Editor para crear y compartir niveles personalizados.",
+        "Diferentes modos y niveles para poner a prueba tus reflejos."
+      ],
+      "links": [
+        {
+          "label": "Geometry Dash v2.2.144 CON MODS",
+          "url": "https://www.mediafire.com/file/bue3giyr8dzkzid/geometry-dash-mod_2.2.144.apk/file"
+        }
+      ],
+      "image": "geometry-dash-2-2-144-mods.png"
+    },
+    {
+      "id": "fnaf-1-v2-0-7",
+      "name": "Five Nights at Freddy's",
+      "version": "2.0.7",
+      "platform": "Android",
+      "category": "Terror y supervivencia",
+      "icon": "🎮",
+      "short": "Five Nights at Freddy's 1 v2.0.7 para Android, con el clásico desafío de supervivencia en Freddy Fazbear's Pizza.",
+      "description": "Five Nights at Freddy's es un juego de terror y supervivencia en el que debes vigilar las cámaras, administrar la energía y evitar a los animatrónicos durante la noche. La versión 2.0.7 para Android incluye las actualizaciones recientes de la aplicación, incluyendo cambios en la biblioteca de facturación de Google Play y en el nivel de API objetivo.",
+      "features": [
+        "Versión 2.0.7 para Android.",
+        "Vigila las cámaras de seguridad y controla la oficina.",
+        "Administra una cantidad limitada de electricidad durante cada noche.",
+        "Supervive cinco noches en Freddy Fazbear's Pizza.",
+        "Versión móvil remasterizada basada en la versión para PC.",
+        "Subtítulos disponibles en español latino y otros idiomas."
+      ],
+      "links": [
+        {
+          "label": "Five Nights at Freddy's 1 v2.0.7 para Android",
+          "url": "https://www.mediafire.com/file/m27hx8l9wxz9xxr/five-nights-at-freddy_2.0.7.apk/file"
+        }
+      ],
+      "image": "fnaf-1-v2-0-7.png"
+    },
+    {
+      "id": "fnaf-2-v2-0-7",
+      "name": "Five Nights at Freddy's 2",
+      "version": "2.0.7",
+      "platform": "Android",
+      "category": "Terror y supervivencia",
+      "icon": "🎮",
+      "short": "Five Nights at Freddy's 2 v2.0.7 para Android, con una nueva noche de supervivencia frente a los animatrónicos.",
+      "description": "Five Nights at Freddy's 2 es un juego de terror y supervivencia en el que debes vigilar los animatrónicos y utilizar las herramientas disponibles para sobrevivir durante la noche. Esta ficha corresponde a la versión 2.0.7 para Android.",
+      "features": [
+        "Versión 2.0.7 para Android.",
+        "Vigila los movimientos de los animatrónicos durante la noche.",
+        "Utiliza las herramientas disponibles para mantenerlos alejados.",
+        "Supervivencia y tensión en la pizzería de Freddy Fazbear."
+      ],
+      "links": [
+        {
+          "label": "Five Nights at Freddy's 2 v2.0.7 para Android",
+          "url": "https://www.mediafire.com/file/cbwu8pcvrl1qwzl/fnaf-2_2.0.7.apk/file"
+        }
+      ],
+      "image": "fnaf-2-v2-0-7.png"
+    },
+    {
+      "id": "fnaf-sister-location-v2-0-5",
+      "name": "Five Nights at Freddy's: Sister Location",
+      "version": "2.0.5",
+      "platform": "Android",
+      "category": "Terror y supervivencia",
+      "icon": "🎮",
+      "short": "Five Nights at Freddy's: Sister Location v2.0.5 para Android: explora las instalaciones subterráneas y sobrevive a los animatrónicos.",
+      "description": "Five Nights at Freddy's: Sister Location es un juego de terror y supervivencia ambientado en una instalación subterránea donde debes completar tareas y evitar a los animatrónicos. Esta ficha corresponde a la versión 2.0.5 para Android.",
+      "features": [
+        "Versión 2.0.5 para Android.",
+        "Explora las instalaciones y completa tareas nocturnas.",
+        "Evita a los animatrónicos y sigue las instrucciones para sobrevivir.",
+        "Experiencia de terror con exploración y tensión."
+      ],
+      "links": [
+        {
+          "label": "Five Nights at Freddy's Sister Location v2.0.5 para Android",
+          "url": "https://www.mediafire.com/file/n6sq4gal890iu96/fnaf-5-sl_2.0.5.apk/file"
+        }
+      ],
+      "image": "fnaf-sister-location-v2-0-5.jpg"
+    },
+    {
+      "id": "fnaf-3-v2-0-4",
+      "name": "Five Nights at Freddy's 3",
+      "version": "2.0.4",
+      "platform": "Android",
+      "category": "Terror y supervivencia",
+      "icon": "🎮",
+      "short": "Five Nights at Freddy's 3 v2.0.4 para Android: sobrevive en Fazbear's Fright y vigila a Springtrap y los animatrónicos fantasma.",
+      "description": "Five Nights at Freddy's 3 es un juego de terror y supervivencia ambientado treinta años después del cierre de Freddy Fazbear's Pizza. En Fazbear's Fright debes vigilar cámaras, administrar los sistemas y sobrevivir a Springtrap y a las apariciones de los animatrónicos fantasma. Esta ficha corresponde a la versión 2.0.4 para Android.",
+      "features": [
+        "Versión 2.0.4 para Android.",
+        "Vigila las cámaras y administra los sistemas de la atracción.",
+        "Sobrevive a Springtrap y a los animatrónicos fantasma.",
+        "Incluye minijuegos y contenido adicional.",
+        "El desarrollador indica que se recomienda un dispositivo con al menos 2 GB de RAM."
+      ],
+      "links": [
+        {
+          "label": "Five Nights at Freddy's 3 v2.0.4 para Android",
+          "url": "https://www.mediafire.com/file/1g9fqgmvauy7jp5/fnaf-3_2.0.4.apk/file"
+        }
+      ],
+      "image": "fnaf-3-v2-0-4.png"
+    },
+    {
+      "id": "fnaf-4-v2-0-4",
+      "name": "Five Nights at Freddy's 4",
+      "version": "2.0.4",
+      "platform": "Android",
+      "category": "Terror y supervivencia",
+      "icon": "🎮",
+      "short": "Five Nights at Freddy's 4 v2.0.4 para Android, una experiencia de terror y supervivencia frente a los animatrónicos de las pesadillas.",
+      "description": "Five Nights at Freddy's 4 es un juego de terror y supervivencia en el que debes prestar atención a los sonidos y revisar los accesos para evitar a los animatrónicos de pesadilla. Esta ficha corresponde a la versión 2.0.4 para Android.",
+      "features": [
+        "Versión 2.0.4 para Android.",
+        "Sobrevive a encuentros con animatrónicos de pesadilla.",
+        "Presta atención a los sonidos para detectar amenazas cercanas.",
+        "Revisa los accesos y actúa con cuidado para sobrevivir."
+      ],
+      "links": [
+        {
+          "label": "Five Nights at Freddy's 3 v2.0.4 para Android",
+          "url": "https://www.mediafire.com/file/fkdoodgxdx0eswi/fnaf-4_2.0.4.apk/file"
+        }
+      ],
+      "image": "fnaf-4-v2-0-4.png"
+    },
+    {
+      "id": "poppy-playtime-capitulo-2-v1-42",
+      "name": "Poppy Playtime Capítulo 2",
+      "version": "1.42",
+      "platform": "Android",
+      "category": "Terror y aventura",
+      "icon": "🎮",
+      "short": "Poppy Playtime Capítulo 2 v1.42 para Android.",
+      "description": "Poppy Playtime Capítulo 2 continúa la aventura dentro de la fábrica Playtime Co., con nuevos escenarios, puzles y desafíos.",
+      "features": [
+        "Versión 1.42 para Android.",
+        "Capítulo 2 de la aventura.",
+        "Nuevos escenarios y desafíos.",
+        "Puzles y exploración dentro de la fábrica."
+      ],
+      "links": [
+        {
+          "label": "Poppy Playtime Chapter 2 v1.42 para Android",
+          "url": "https://www.mediafire.com/file/40ffr6np2mo65g9/poppy%20playtime%20chapter%202%20v1.42%20-%20espacioapk.com.apk/file"
+        }
+      ],
+      "image": "poppy-playtime-capitulo-2-v1-42.png"
+    },
+    {
+      "id": "ppsspp-gold-1-20-4",
+      "name": "PPSSPP Gold",
+      "version": "1.20.4",
+      "platform": "Android",
+      "category": "Emuladores",
+      "icon": "🎮",
+      "short": "PPSSPP Gold 1.20.4 para Android, emulador para ejecutar juegos de PSP en dispositivos móviles.",
+      "description": "PPSSPP Gold es la edición de pago del emulador PPSSPP para Android. Permite ejecutar copias de juegos de PlayStation Portable (PSP) en dispositivos compatibles. El emulador no incluye juegos; debes utilizar copias de tus propios juegos y respetar sus derechos de distribución.",
+      "features": [
+        "Versión 1.20.4 para Android.",
+        "Emula juegos de PlayStation Portable (PSP).",
+        "Permite ajustar opciones gráficas y de rendimiento según el dispositivo.",
+        "Admite controles táctiles y mandos compatibles.",
+        "No incluye juegos; se deben añadir copias propias."
+      ],
+      "links": [
+        {
+          "label": "PPSSPP GOLD 1.20.4",
+          "url": "https://www.mediafire.com/file/ljoo1xmg1j2zxjf/ppsspp_gold_v1.20.4.apk/file"
+        }
+      ],
+      "image": "ppsspp-gold-1-20-4.png"
+    },
+    {
+      "id": "actions-and-stuff-1-13",
+      "name": "Actions & Stuff",
+      "version": "1.13",
+      "platform": "Minecraft Bedrock",
+      "category": "Recursos y animación",
+      "icon": "🎮",
+      "short": "Actions & Stuff 1.13 para Minecraft, un paquete de recursos que renueva la apariencia y las animaciones del juego.",
+      "description": "Actions & Stuff 1.13 es un paquete de recursos para Minecraft Bedrock. Esta ficha corresponde a la versión 1.13 indicada por DQ GAMEPLAYS. Comprueba la compatibilidad con tu versión de Minecraft antes de instalarlo.",
+      "features": [
+        "Versión 1.13 de Actions & Stuff.",
+        "Paquete de recursos para Minecraft Bedrock.",
+        "Incluye cambios visuales y de animación propios del paquete.",
+        "Comprueba la compatibilidad con tu versión de Minecraft Bedrock antes de instalarlo."
+      ],
+      "links": [
+        {
+          "label": "Actions & Stuff 1.12",
+          "url": "https://www.mediafire.com/file/k5cs8dvnkhcmh5l/Action_Stuff_1.13_by_DQ_GAMEPLAYS.mcpack/file"
+        }
+      ],
+      "image": "actions-and-stuff-1-13.jpg"
+    },
+    {
+      "id": "actions-and-stuff-1-12",
+      "name": "Actions & Stuff",
+      "version": "1.12",
+      "platform": "Android / PC y Laptop",
+      "category": "Recursos y animación",
+      "icon": "🎮",
+      "short": "Actions & Stuff 1.12 para Minecraft Bedrock, con nuevas animaciones, modelos, texturas y efectos visuales.",
+      "description": "Actions & Stuff 1.12 es un paquete de recursos para Minecraft Bedrock desarrollado por Oreville Studios. Añade animaciones de jugadores y criaturas, modelos 3D de objetos, armaduras personalizadas, partículas y una renovación visual de las texturas.",
+      "features": [
+        "Versión 1.12 de Actions & Stuff.",
+        "Nuevas y mejoradas animaciones para jugadores y criaturas.",
+        "Modelos 3D de objetos.",
+        "Armaduras y elementos visuales personalizados.",
+        "Mejoras de texturas y efectos.",
+        "Compatible con Minecraft Bedrock en Android y Windows."
+      ],
+      "links": [
+        {
+          "label": "Actions & Stuff 1.12",
+          "url": "https://www.mediafire.com/file/5fcrxuk8xx0m6ow/Actions_Stuff_1.12_By_DQ_GAMEPLAYS.mcpack/file"
+        }
+      ],
+      "image": "actions-and-stuff-1-12.jpg"
+    },
+    {
+      "id": "terraria-1-4-5-8-6",
+      "name": "Terraria",
+      "version": "1.4.5.8.6",
+      "platform": "Android",
+      "category": "Aventura y supervivencia",
+      "icon": "🎮",
+      "short": "Terraria 1.4.5.8.6 para Android, la versión más reciente con correcciones críticas.",
+      "description": "Terraria es un juego de aventura, exploración, combate y construcción en un mundo sandbox. La versión 1.4.5.8.6 para Android incluye correcciones críticas y sincroniza el contenido móvil con Terraria 1.4.5.8 de PC.",
+      "features": [
+        "Versión 1.4.5.8.6 para Android.",
+        "Correcciones críticas de estabilidad.",
+        "Contenido de la actualización 1.4.5 Bigger and Boulder.",
+        "Contenido de colaboración con Dead Cells, incluyendo nuevas armas y accesorios de combate.",
+        "Pals de Palworld incorporados a Terraria.",
+        "Nuevos conjuntos de muebles, tipos de roca, monturas de transformación, látigos y elementos decorativos.",
+        "Nueva semilla Skyblock y mejoras al sistema de creación de mundos y semillas especiales.",
+        "Más de 5000 objetos, más de 25 NPC y más de 400 enemigos disponibles en el juego."
+      ],
+      "links": [
+        {
+          "label": "Terraria 1.4.5.8.6 para Android",
+          "url": "https://www.mediafire.com/file/t576p33sm5mj8yu/Terraria-v1.4.5.8.6.apk/file"
+        }
+      ],
+      "image": "terraria-1-4-5-8-6.png"
+    },
+    {
+      "id": "terraria-1-4-5-8-pc",
+      "name": "Terraria 1.4.5.8",
+      "version": "1.4.5.8",
+      "platform": "PC y Laptop",
+      "category": "Aventura y supervivencia",
+      "icon": "🎮",
+      "short": "Terraria 1.4.5.8 para PC y laptop, con el contenido de Bigger and Boulder y sus últimas correcciones para PC.",
+      "description": "Terraria es un juego de aventura, exploración, combate y construcción en un mundo sandbox. Esta edición corresponde a la versión 1.4.5.8 para PC y laptop, con el contenido de la actualización Bigger and Boulder y sus ajustes y correcciones para la versión de PC.",
+      "features": [
+        "Versión 1.4.5.8 para PC y laptop.",
+        "Contenido de la actualización Bigger and Boulder.",
+        "Nuevos objetos, ajustes de balance y cambios de funcionalidad.",
+        "Nuevos desafíos, enemigos, accesorios y contenido de exploración.",
+        "Construcción y exploración en un mundo sandbox.",
+        "Compatible con juego individual y funciones multijugador de la versión para PC."
+      ],
+      "links": [
+        {
+          "label": "Terraria 1.4.5.8 para PC",
+          "url": "https://www.mediafire.com/file/utiitax93pn8u8j/terraria_v1.4.5.8.zip/file"
+        }
+      ],
+      "image": "terraria-1-4-5-8-pc.jpg"
     },
     {
       "id": "poppy-playtime-capitulo-1-v1-0-18",
@@ -284,27 +805,77 @@
       "image": "poppy-playtime-capitulo-1-v1-0-18.png"
     },
     {
-      "id": "poppy-playtime-capitulo-2-v1-42",
-      "name": "Poppy Playtime Capítulo 2",
-      "version": "1.42",
+      "id": "poppy-playtime-capitulo-3-v1-0-25",
+      "name": "Poppy Playtime Capítulo 3",
+      "version": "1.0.25",
       "platform": "Android",
-      "category": "Terror y aventura",
+      "category": "Terror y supervivencia",
       "icon": "🎮",
-      "short": "Poppy Playtime Capítulo 2 v1.42 para Android.",
-      "description": "Poppy Playtime Capítulo 2 continúa la aventura dentro de la fábrica Playtime Co., con nuevos escenarios, puzles y desafíos.",
+      "short": "Poppy Playtime Capítulo 3 v1.0.25 para Android.",
+      "description": "Poppy Playtime Capítulo 3 lleva la aventura a Playcare, un orfanato abandonado situado bajo la antigua fábrica de juguetes. Esta ficha corresponde a la versión 1.0.25 para Android.",
       "features": [
-        "Versión 1.42 para Android.",
-        "Capítulo 2 de la aventura.",
-        "Nuevos escenarios y desafíos.",
-        "Puzles y exploración dentro de la fábrica."
+        "Capítulo 3 para Android.",
+        "Explora Playcare y sus diferentes zonas.",
+        "Nuevos desafíos y rompecabezas.",
+        "El GrabPack recibe nuevas posibilidades.",
+        "Nuevas criaturas y amenazas.",
+        "Modo de un jugador y juego sin conexión."
       ],
       "links": [
         {
-          "label": "Poppy Playtime Chapter 2 v1.42 para Android",
-          "url": "https://www.mediafire.com/file/40ffr6np2mo65g9/poppy%20playtime%20chapter%202%20v1.42%20-%20espacioapk.com.apk/file"
+          "label": "Poppy Playtime Capítulo 3 v1.0.25 para android",
+          "url": "https://www.mediafire.com/file/643cxsb3i7txjnl/Poppy+Playtime+Chapter+3+-+v1.0.25+-+APK+-+VPR.apk/file"
         }
       ],
-      "image": "poppy-playtime-capitulo-2-v1-42.png"
+      "image": "poppy-playtime-capitulo-3-v1-0-25.png"
+    },
+    {
+      "id": "poppy-playtime-capitulo-5-android-v1-0-17",
+      "name": "Poppy Playtime Capítulo 5",
+      "version": "1.0.17",
+      "platform": "Android",
+      "category": "Terror y aventura",
+      "icon": "🎮",
+      "short": "Poppy Playtime Capítulo 5 v1.0.17 para Android, la nueva entrega de terror y aventura de DQ GAMEPLAYS.",
+      "description": "Poppy Playtime Capítulo 5 para Android, identificado con la versión 1.0.17 solicitada para esta publicación de DQ GAMEPLAYS.",
+      "features": [
+        "Versión indicada: 1.0.17.",
+        "Plataforma Android.",
+        "Aventura de terror y exploración.",
+        "Continúa la historia de Playtime Co."
+      ],
+      "links": [
+        {
+          "label": "Poppy Playtime Capítulo 5 v1.0.17 para Android",
+          "url": "https://www.mediafire.com/file/y2frjwg16bu2xgw/Poppy-Playtime-Chapter-5-v1.0.17-by-DQ_GAMEPLAYS.apk/file"
+        }
+      ],
+      "image": "poppy-playtime-capitulo-5-android-v1-0-17.png"
+    },
+    {
+      "id": "poppy-playtime-capitulo-4-v1-0-5",
+      "name": "Poppy Playtime Capítulo 4",
+      "version": "1.0.5",
+      "platform": "Android",
+      "category": "Terror y supervivencia",
+      "icon": "🎮",
+      "short": "Poppy Playtime Capítulo 4 v1.0.5 para Android.",
+      "description": "Poppy Playtime Capítulo 4 lleva la aventura a las profundidades de la fábrica de Playtime Co. Esta ficha corresponde a la versión 1.0.5 para Android.",
+      "features": [
+        "Capítulo 4 para Android.",
+        "Explora las profundidades de la fábrica de Playtime Co.",
+        "Nuevos personajes, enemigos y desafíos.",
+        "Nuevos acertijos y zonas por descubrir.",
+        "Historia ampliada y nuevos misterios.",
+        "Modo de un jugador y juego sin conexión."
+      ],
+      "links": [
+        {
+          "label": "Poppy Playtime Capítulo 4 v1.0.5 para Android",
+          "url": "https://www.mediafire.com/file/sjj70klo1m67l9u/Poppy-Playtime-Chapter-4-v1.0.5.apk/file"
+        }
+      ],
+      "image": "poppy-playtime-capitulo-4-v1-0-5.png"
     },
     {
       "id": "poppy-playtime-capitulo-2-pc",
@@ -399,175 +970,6 @@
       "image": "poppy-playtime-capitulo-4-pc.png"
     },
     {
-      "id": "poppy-playtime-capitulo-3-v1-0-25",
-      "name": "Poppy Playtime Capítulo 3",
-      "version": "1.0.25",
-      "platform": "Android",
-      "category": "Terror y supervivencia",
-      "icon": "🎮",
-      "short": "Poppy Playtime Capítulo 3 v1.0.25 para Android.",
-      "description": "Poppy Playtime Capítulo 3 lleva la aventura a Playcare, un orfanato abandonado situado bajo la antigua fábrica de juguetes. Esta ficha corresponde a la versión 1.0.25 para Android.",
-      "features": [
-        "Capítulo 3 para Android.",
-        "Explora Playcare y sus diferentes zonas.",
-        "Nuevos desafíos y rompecabezas.",
-        "El GrabPack recibe nuevas posibilidades.",
-        "Nuevas criaturas y amenazas.",
-        "Modo de un jugador y juego sin conexión."
-      ],
-      "links": [
-        {
-          "label": "Poppy Playtime Capítulo 3 v1.0.25 para android",
-          "url": "https://www.mediafire.com/file/643cxsb3i7txjnl/Poppy+Playtime+Chapter+3+-+v1.0.25+-+APK+-+VPR.apk/file"
-        }
-      ],
-      "image": "poppy-playtime-capitulo-3-v1-0-25.png"
-    },
-    {
-      "id": "poppy-playtime-capitulo-4-v1-0-5",
-      "name": "Poppy Playtime Capítulo 4",
-      "version": "1.0.5",
-      "platform": "Android",
-      "category": "Terror y supervivencia",
-      "icon": "🎮",
-      "short": "Poppy Playtime Capítulo 4 v1.0.5 para Android.",
-      "description": "Poppy Playtime Capítulo 4 lleva la aventura a las profundidades de la fábrica de Playtime Co. Esta ficha corresponde a la versión 1.0.5 para Android.",
-      "features": [
-        "Capítulo 4 para Android.",
-        "Explora las profundidades de la fábrica de Playtime Co.",
-        "Nuevos personajes, enemigos y desafíos.",
-        "Nuevos acertijos y zonas por descubrir.",
-        "Historia ampliada y nuevos misterios.",
-        "Modo de un jugador y juego sin conexión."
-      ],
-      "links": [
-        {
-          "label": "Poppy Playtime Capítulo 4 v1.0.5 para Android",
-          "url": "https://www.mediafire.com/file/sjj70klo1m67l9u/Poppy-Playtime-Chapter-4-v1.0.5.apk/file"
-        }
-      ],
-      "image": "poppy-playtime-capitulo-4-v1-0-5.png"
-    },
-    {
-      "id": "minecraft-26-50",
-      "name": "Minecraft",
-      "version": "26.50",
-      "platform": "Android",
-      "category": "Aventura y construcción",
-      "icon": "⛏️",
-      "short": "Minecraft 26.50 para Android, la actualización Wilderness Bound con nuevos contenidos de exploración, estructuras y elementos para el mundo.",
-      "description": "Minecraft es un videojuego de construcción, exploración y aventura en un mundo formado por bloques. La versión 26.50, conocida como Wilderness Bound, añade nuevas formas de explorar la naturaleza, incluyendo el bosque moteado, campamentos abandonados, árboles de álamo, cojines y camas de paja, además de nuevos bloques y diversos ajustes y correcciones.",
-      "features": [
-        "Versión 26.50 para Android.",
-        "Nuevo bioma Bosque Moteado (Dappled Forest), con árboles de álamo, hongos de estantería y arbustos rojos.",
-        "Nuevas estructuras de Campamentos Abandonados con cofres, barriles, botín y mapas de explorador.",
-        "Nuevos Árboles de Álamo con hojas rojas, naranjas y amarillas y nuevos bloques de madera de álamo.",
-        "Nuevos Cojines disponibles en 16 colores, que se pueden colocar y usar para sentarse.",
-        "Nuevas Camas de Paja que permiten dormir una vez sin cambiar el punto de aparición.",
-        "Nuevas Escaleras y Losas de Lana y de Concreto en los 16 colores.",
-        "Nuevo Hongo de Estantería, que aparece sobre los árboles de álamo y puede utilizarse para preparar guisos.",
-        "Correcciones y mejoras de estabilidad, interfaz, gráficos y jugabilidad."
-      ],
-      "links": [
-        {
-          "label": "Minecraft 26.50 + Música",
-          "url": "https://www.mediafire.com/file/ga1mz3hwvyxuul8/minecraft-1.26.50.4-musica.apk/file"
-        },
-        {
-          "label": "Minecraft 26.50 SIN Música",
-          "url": "https://www.mediafire.com/file/g8dtswc7525ocht/minecraft-1.26.50.4.apk/file"
-        }
-      ],
-      "image": "minecraft-26-50.jpg"
-    },
-    {
-      "id": "minecraft-26-51",
-      "name": "Minecraft",
-      "version": "26.51",
-      "platform": "Android",
-      "category": "Aventura y construcción",
-      "icon": "⛏️",
-      "short": "Minecraft 26.51 para Android, actualización hotfix con correcciones de estabilidad y rendimiento.",
-      "description": "Minecraft 26.51 para Android corresponde a una actualización hotfix de Bedrock. Según el changelog oficial, corrige un fallo que podía provocar un cierre inesperado al cargar mundos con estructuras de bloques grandes y densamente conectadas.",
-      "features": [
-        "Versión 26.51 para Android.",
-        "Hotfix de Minecraft Bedrock.",
-        "Corrección de un cierre inesperado al cargar ciertos mundos.",
-        "Mejoras de estabilidad y rendimiento.",
-        "Incluye la actualización oficial más reciente de la rama 26.51."
-      ],
-      "links": [
-        {
-          "label": "Minecraft 26.51 + Música",
-          "url": "https://www.mediafire.com/file/ycl5w7jrj2jaque/minecraft-1.26.51.1-Musica.apk/file"
-        },
-        {
-          "label": "Minecraft 26.51 SIN Música",
-          "url": "https://www.mediafire.com/file/0i9pwlgolmf740d/minecraft-1.26.51.1.apk/file"
-        }
-      ],
-      "image": "minecraft-26-51.png"
-    },
-    {
-      "id": "minecraft-26-52",
-      "name": "Minecraft",
-      "version": "26.52",
-      "platform": "Android",
-      "category": "Aventura y construcción",
-      "icon": "⛏️",
-      "short": "Minecraft 26.52 para Android, una actualización hotfix con correcciones de estabilidad, gráficos, jugabilidad y complementos.",
-      "description": "Minecraft es un videojuego de construcción, exploración y aventura en un mundo formado por bloques. La versión 26.52 para Android corresponde a una actualización hotfix de Bedrock con diversas correcciones de estabilidad, gráficos, jugabilidad, interfaz y complementos.",
-      "features": [
-        "Versión 26.52 para Android.",
-        "Actualización hotfix de Minecraft Bedrock.",
-        "Mejoras de estabilidad y rendimiento.",
-        "Correcciones gráficas relacionadas con texturas y hardware compatible.",
-        "Correcciones de jugabilidad en el modo Espectador y otros elementos del mundo.",
-        "Correcciones para determinados complementos y mundos antiguos.",
-        "Mejoras y correcciones en la interfaz de usuario."
-      ],
-      "links": [
-        {
-          "label": "Minecraft 26.52 + Música",
-          "url": "https://www.mediafire.com/file/d5yjq9qbsh55swq/minecraft-1.26.52.3-musica.apk/file"
-        },
-        {
-          "label": "Minecraft 26.52 SIN Música",
-          "url": "https://www.mediafire.com/file/qxor21sz4r0k3o8/minecraft-1.26.52.3.apk/file"
-        }
-      ],
-      "image": "minecraft-26-52.png"
-    },
-    {
-      "id": "minecraft-patched-26-51",
-      "name": "Minecraft Patched",
-      "version": "26.51",
-      "platform": "Android",
-      "category": "Aventura y construcción",
-      "icon": "⛏️",
-      "short": "Minecraft Patched 26.51 para Android, basado en la versión 26.51 y orientado al uso de shaders compatibles.",
-      "description": "Minecraft Patched 26.51 es una versión modificada para Android basada en Minecraft Bedrock 26.51. La versión 26.51 es un hotfix que incluye correcciones de estabilidad y rendimiento; esta edición Patched está orientada al uso de shaders compatibles. La compatibilidad puede variar según el shader, el dispositivo y la configuración utilizada.",
-      "features": [
-        "Basado en Minecraft Bedrock 26.51.",
-        "Versión Patched para Android.",
-        "Orientado al uso de shaders compatibles con la versión 26.51.",
-        "Incluye las correcciones de estabilidad y rendimiento de la actualización 26.51.",
-        "Corrección de un cierre inesperado al cargar determinados mundos con estructuras de bloques grandes y densamente conectadas.",
-        "La compatibilidad de cada shader puede variar según el dispositivo y el propio shader."
-      ],
-      "links": [
-        {
-          "label": "Minecraft Patched 26.51 + Música",
-          "url": "https://www.mediafire.com/file/j18xgt5a7h2rkpe/Minecraft-patched-26.51-musica.apk/file"
-        },
-        {
-          "label": "Minecraft Patched 26.51 SIN Música",
-          "url": "https://www.mediafire.com/file/qtyycmcz89otnjs/Minecraft-patched-26.51.apk/file"
-        }
-      ],
-      "image": "minecraft-patched-26-51.png"
-    },
-    {
       "id": "cuphead-dlc-pc",
       "name": "Cuphead + DLC",
       "version": "Juego completo + The Delicious Last Course",
@@ -591,83 +993,6 @@
         }
       ],
       "image": "cuphead-dlc.png"
-    },
-    {
-      "id": "terraria-1-4-5-8-6",
-      "name": "Terraria",
-      "version": "1.4.5.8.6",
-      "platform": "Android",
-      "category": "Aventura y supervivencia",
-      "icon": "🎮",
-      "short": "Terraria 1.4.5.8.6 para Android, la versión más reciente con correcciones críticas.",
-      "description": "Terraria es un juego de aventura, exploración, combate y construcción en un mundo sandbox. La versión 1.4.5.8.6 para Android incluye correcciones críticas y sincroniza el contenido móvil con Terraria 1.4.5.8 de PC.",
-      "features": [
-        "Versión 1.4.5.8.6 para Android.",
-        "Correcciones críticas de estabilidad.",
-        "Contenido de la actualización 1.4.5 Bigger and Boulder.",
-        "Contenido de colaboración con Dead Cells, incluyendo nuevas armas y accesorios de combate.",
-        "Pals de Palworld incorporados a Terraria.",
-        "Nuevos conjuntos de muebles, tipos de roca, monturas de transformación, látigos y elementos decorativos.",
-        "Nueva semilla Skyblock y mejoras al sistema de creación de mundos y semillas especiales.",
-        "Más de 5000 objetos, más de 25 NPC y más de 400 enemigos disponibles en el juego."
-      ],
-      "links": [
-        {
-          "label": "Terraria 1.4.5.8.6 para Android",
-          "url": "https://www.mediafire.com/file/t576p33sm5mj8yu/Terraria-v1.4.5.8.6.apk/file"
-        }
-      ],
-      "image": "terraria-1-4-5-8-6.png"
-    },
-    {
-      "id": "terraria-1-4-5-8-pc",
-      "name": "Terraria 1.4.5.8",
-      "version": "1.4.5.8",
-      "platform": "PC y Laptop",
-      "category": "Aventura y supervivencia",
-      "icon": "🎮",
-      "short": "Terraria 1.4.5.8 para PC y laptop, con el contenido de Bigger and Boulder y sus últimas correcciones para PC.",
-      "description": "Terraria es un juego de aventura, exploración, combate y construcción en un mundo sandbox. Esta edición corresponde a la versión 1.4.5.8 para PC y laptop, con el contenido de la actualización Bigger and Boulder y sus ajustes y correcciones para la versión de PC.",
-      "features": [
-        "Versión 1.4.5.8 para PC y laptop.",
-        "Contenido de la actualización Bigger and Boulder.",
-        "Nuevos objetos, ajustes de balance y cambios de funcionalidad.",
-        "Nuevos desafíos, enemigos, accesorios y contenido de exploración.",
-        "Construcción y exploración en un mundo sandbox.",
-        "Compatible con juego individual y funciones multijugador de la versión para PC."
-      ],
-      "links": [
-        {
-          "label": "Terraria 1.4.5.8 para PC",
-          "url": "https://www.mediafire.com/file/utiitax93pn8u8j/terraria_v1.4.5.8.zip/file"
-        }
-      ],
-      "image": "terraria-1-4-5-8-pc.jpg"
-    },
-    {
-      "id": "gta-san-andreas-2-11-311",
-      "name": "GTA San Andreas",
-      "version": "2.11.311",
-      "platform": "Android",
-      "category": "Acción y aventura",
-      "icon": "🎮",
-      "short": "Grand Theft Auto: San Andreas 2.11.311 para Android, con la actualización oficial de enero de 2026.",
-      "description": "Grand Theft Auto: San Andreas es un juego de acción y aventura de mundo abierto de Rockstar Games. La versión Android 2.11.311 fue publicada el 21 de enero de 2026 e incluye una corrección para un problema que podía provocar un cierre inesperado al descargar los recursos del juego.",
-      "features": [
-        "Versión Android 2.11.311.",
-        "Corrección de un problema que podía causar un cierre al descargar recursos del juego.",
-        "Mundo abierto con Los Santos, San Fierro y Las Venturas.",
-        "Historia protagonizada por Carl Johnson (CJ).",
-        "Controles táctiles personalizables y compatibilidad con determinados mandos.",
-        "Guardado en la nube para usuarios compatibles con Rockstar Games Social Club."
-      ],
-      "links": [
-        {
-          "label": "GTA San Andreas 2.11.311 para Android",
-          "url": "https://www.mediafire.com/file/on1ys5y8ktcht6o/GTA_San_Andreas_-_v2.11.311.apk/file"
-        }
-      ],
-      "image": "gta-san-andreas-2-11-311.jpg"
     },
     {
       "id": "gta-san-andreas-pc",
@@ -695,54 +1020,6 @@
       "image": "gta-san-andreas-pc.jpg"
     },
     {
-      "id": "fnaf-1-v2-0-7",
-      "name": "Five Nights at Freddy's",
-      "version": "2.0.7",
-      "platform": "Android",
-      "category": "Terror y supervivencia",
-      "icon": "🎮",
-      "short": "Five Nights at Freddy's 1 v2.0.7 para Android, con el clásico desafío de supervivencia en Freddy Fazbear's Pizza.",
-      "description": "Five Nights at Freddy's es un juego de terror y supervivencia en el que debes vigilar las cámaras, administrar la energía y evitar a los animatrónicos durante la noche. La versión 2.0.7 para Android incluye las actualizaciones recientes de la aplicación, incluyendo cambios en la biblioteca de facturación de Google Play y en el nivel de API objetivo.",
-      "features": [
-        "Versión 2.0.7 para Android.",
-        "Vigila las cámaras de seguridad y controla la oficina.",
-        "Administra una cantidad limitada de electricidad durante cada noche.",
-        "Supervive cinco noches en Freddy Fazbear's Pizza.",
-        "Versión móvil remasterizada basada en la versión para PC.",
-        "Subtítulos disponibles en español latino y otros idiomas."
-      ],
-      "links": [
-        {
-          "label": "Five Nights at Freddy's 1 v2.0.7 para Android",
-          "url": "https://www.mediafire.com/file/m27hx8l9wxz9xxr/five-nights-at-freddy_2.0.7.apk/file"
-        }
-      ],
-      "image": "fnaf-1-v2-0-7.png"
-    },
-    {
-      "id": "fnaf-2-v2-0-7",
-      "name": "Five Nights at Freddy's 2",
-      "version": "2.0.7",
-      "platform": "Android",
-      "category": "Terror y supervivencia",
-      "icon": "🎮",
-      "short": "Five Nights at Freddy's 2 v2.0.7 para Android, con una nueva noche de supervivencia frente a los animatrónicos.",
-      "description": "Five Nights at Freddy's 2 es un juego de terror y supervivencia en el que debes vigilar los animatrónicos y utilizar las herramientas disponibles para sobrevivir durante la noche. Esta ficha corresponde a la versión 2.0.7 para Android.",
-      "features": [
-        "Versión 2.0.7 para Android.",
-        "Vigila los movimientos de los animatrónicos durante la noche.",
-        "Utiliza las herramientas disponibles para mantenerlos alejados.",
-        "Supervivencia y tensión en la pizzería de Freddy Fazbear."
-      ],
-      "links": [
-        {
-          "label": "Five Nights at Freddy's 2 v2.0.7 para Android",
-          "url": "https://www.mediafire.com/file/cbwu8pcvrl1qwzl/fnaf-2_2.0.7.apk/file"
-        }
-      ],
-      "image": "fnaf-2-v2-0-7.png"
-    },
-    {
       "id": "cuphead-dlc-android",
       "name": "Cuphead + DLC",
       "version": "Juego base + The Delicious Last Course",
@@ -766,91 +1043,6 @@
         }
       ],
       "image": "cuphead-dlc-android.png"
-    },
-    {
-      "id": "minecraft-patched-26-52",
-      "name": "Minecraft Patched",
-      "version": "26.52",
-      "platform": "Android",
-      "category": "Aventura y construcción",
-      "icon": "⛏️",
-      "short": "Minecraft Patched 26.52 para Android, basado en la versión 26.52 y orientado al uso de shaders compatibles.",
-      "description": "Minecraft Patched 26.52 es una versión modificada para Android basada en Minecraft Bedrock 26.52. La versión 26.52 es un hotfix que incluye correcciones de estabilidad, gráficos, jugabilidad, complementos e interfaz. Esta edición Patched está orientada al uso de shaders compatibles; la compatibilidad puede variar según el shader, el dispositivo y la configuración utilizada.",
-      "features": [
-        "Basado en Minecraft Bedrock 26.52.",
-        "Versión Patched para Android.",
-        "Orientado al uso de shaders compatibles con la versión 26.52.",
-        "Mejoras de estabilidad para Nintendo Switch conectado a una red y corrección de un problema que impedía iniciar el juego en algunos dispositivos iOS.",
-        "Correcciones gráficas relacionadas con la detección de texturas cube-map array en hardware gráfico antiguo de Windows.",
-        "Corrección de objetos del inventario que podían aparecer invisibles con determinados ajustes de brillo y anti-aliasing.",
-        "En el modo Espectador, los jugadores ya no reciben impactos de proyectiles.",
-        "Corrección de cojines que podían desaparecer al recargar chunks descargados.",
-        "Corrección de un problema con mundos antiguos que tenían complementos del Marketplace activados y podían perder los logros desde la versión 26.50.",
-        "Mejoras en la interfaz durante la primera configuración al iniciar un mundo multijugador."
-      ],
-      "links": [
-        {
-          "label": "Minecraft Patched 26.52 + Música",
-          "url": "https://www.mediafire.com/file/axs1t3lwfhpt5p2/Minecraft-Patched-1.26.52-musica.apk/file"
-        },
-        {
-          "label": "Minecraft Patched 26.52 SIN Música",
-          "url": "https://www.mediafire.com/file/do26207qx2fzvn4/Minecraft-Patched-1.26.52.apk/file"
-        }
-      ],
-      "image": "minecraft-patched-26-52.png"
-    },
-    {
-      "id": "minecraft-patched-26-60",
-      "name": "Minecraft Patched",
-      "version": "26.60",
-      "platform": "Android",
-      "category": "Aventura y construcción",
-      "icon": "⛏️",
-      "short": "Minecraft Patched 26.60 para Android, una versión modificada orientada al uso de shaders compatibles.",
-      "description": "Minecraft Patched 26.60 es una versión modificada para Android basada en Minecraft Bedrock 26.60. Esta edición Patched está orientada al uso de shaders compatibles. La compatibilidad puede variar según el shader, el dispositivo y la configuración utilizada.",
-      "features": [
-        "Basado en Minecraft Bedrock 26.60.",
-        "Versión Patched para Android.",
-        "Orientado al uso de shaders compatibles con la versión 26.60.",
-        "La compatibilidad de cada shader puede variar según el dispositivo y el propio shader."
-      ],
-      "links": [
-        {
-          "label": "Minecraft Patched 26.60 + Música",
-          "url": "https://www.mediafire.com/file/l7j7jhu58pkpld0/Minecraft-patched-1.26.60-Musica.apk/file"
-        },
-        {
-          "label": "Minecraft Patched 26.60 SIN Música",
-          "url": "https://www.mediafire.com/file/hjpx4w9pxqi637m/Minecraft-Patched-1.26.60.apk/file"
-        }
-      ],
-      "image": "minecraft-patched-26-60.png"
-    },
-    {
-      "id": "human-fall-flat-2-7",
-      "name": "Human Fall Flat",
-      "version": "2.7",
-      "platform": "Android",
-      "category": "Puzzle y plataformas",
-      "icon": "🤸",
-      "short": "Human Fall Flat 2.7 para Android, con nuevos niveles y multijugador cooperativo.",
-      "description": "Human Fall Flat es un juego de plataformas y puzzles basado en físicas. La versión 2.7 para Android incluye el contenido disponible de esta versión y permite jugar en solitario o con hasta 4 jugadores en el modo multijugador online.",
-      "features": [
-        "Versión 2.7 para Android.",
-        "Juego de plataformas y puzzles basado en físicas.",
-        "Multijugador online cooperativo de hasta 4 jugadores.",
-        "Niveles con diferentes rutas, obstáculos y mecanismos.",
-        "Personalización del personaje con distintos atuendos.",
-        "Nuevos niveles y contenido gratuito disponible para la comunidad."
-      ],
-      "links": [
-        {
-          "label": "Human Fall Flat 2.7 para Android",
-          "url": "https://www.mediafire.com/file/qpdbs7sglttlnen/Human-Fall-Flat-v2.7.apk/file"
-        }
-      ],
-      "image": "human-fall-flat-2-7.png"
     },
     {
       "id": "hollow-knight-pc",
@@ -929,54 +1121,6 @@
       "image": "hollow-knight-silksong-pc.jpg"
     },
     {
-      "id": "actions-and-stuff-1-12",
-      "name": "Actions & Stuff",
-      "version": "1.12",
-      "platform": "Android / PC y Laptop",
-      "category": "Recursos y animación",
-      "icon": "🎮",
-      "short": "Actions & Stuff 1.12 para Minecraft Bedrock, con nuevas animaciones, modelos, texturas y efectos visuales.",
-      "description": "Actions & Stuff 1.12 es un paquete de recursos para Minecraft Bedrock desarrollado por Oreville Studios. Añade animaciones de jugadores y criaturas, modelos 3D de objetos, armaduras personalizadas, partículas y una renovación visual de las texturas.",
-      "features": [
-        "Versión 1.12 de Actions & Stuff.",
-        "Nuevas y mejoradas animaciones para jugadores y criaturas.",
-        "Modelos 3D de objetos.",
-        "Armaduras y elementos visuales personalizados.",
-        "Mejoras de texturas y efectos.",
-        "Compatible con Minecraft Bedrock en Android y Windows."
-      ],
-      "links": [
-        {
-          "label": "Actions & Stuff 1.12",
-          "url": "https://www.mediafire.com/file/5fcrxuk8xx0m6ow/Actions_Stuff_1.12_By_DQ_GAMEPLAYS.mcpack/file"
-        }
-      ],
-      "image": "actions-and-stuff-1-12.jpg"
-    },
-    {
-      "id": "actions-and-stuff-1-13",
-      "name": "Actions & Stuff",
-      "version": "1.13",
-      "platform": "Minecraft Bedrock",
-      "category": "Recursos y animación",
-      "icon": "🎮",
-      "short": "Actions & Stuff 1.13 para Minecraft, un paquete de recursos que renueva la apariencia y las animaciones del juego.",
-      "description": "Actions & Stuff 1.13 es un paquete de recursos para Minecraft Bedrock. Esta ficha corresponde a la versión 1.13 indicada por DQ GAMEPLAYS. Comprueba la compatibilidad con tu versión de Minecraft antes de instalarlo.",
-      "features": [
-        "Versión 1.13 de Actions & Stuff.",
-        "Paquete de recursos para Minecraft Bedrock.",
-        "Incluye cambios visuales y de animación propios del paquete.",
-        "Comprueba la compatibilidad con tu versión de Minecraft Bedrock antes de instalarlo."
-      ],
-      "links": [
-        {
-          "label": "Actions & Stuff 1.12",
-          "url": "https://www.mediafire.com/file/k5cs8dvnkhcmh5l/Action_Stuff_1.13_by_DQ_GAMEPLAYS.mcpack/file"
-        }
-      ],
-      "image": "actions-and-stuff-1-13.jpg"
-    },
-    {
       "id": "poppy-playtime-capitulo-5-pc",
       "name": "Poppy Playtime Capítulo 5",
       "version": "PC y Laptop",
@@ -1003,77 +1147,6 @@
       "image": "poppy-playtime-capitulo-5-pc.png"
     },
     {
-      "id": "fnaf-3-v2-0-4",
-      "name": "Five Nights at Freddy's 3",
-      "version": "2.0.4",
-      "platform": "Android",
-      "category": "Terror y supervivencia",
-      "icon": "🎮",
-      "short": "Five Nights at Freddy's 3 v2.0.4 para Android: sobrevive en Fazbear's Fright y vigila a Springtrap y los animatrónicos fantasma.",
-      "description": "Five Nights at Freddy's 3 es un juego de terror y supervivencia ambientado treinta años después del cierre de Freddy Fazbear's Pizza. En Fazbear's Fright debes vigilar cámaras, administrar los sistemas y sobrevivir a Springtrap y a las apariciones de los animatrónicos fantasma. Esta ficha corresponde a la versión 2.0.4 para Android.",
-      "features": [
-        "Versión 2.0.4 para Android.",
-        "Vigila las cámaras y administra los sistemas de la atracción.",
-        "Sobrevive a Springtrap y a los animatrónicos fantasma.",
-        "Incluye minijuegos y contenido adicional.",
-        "El desarrollador indica que se recomienda un dispositivo con al menos 2 GB de RAM."
-      ],
-      "links": [
-        {
-          "label": "Five Nights at Freddy's 3 v2.0.4 para Android",
-          "url": "https://www.mediafire.com/file/1g9fqgmvauy7jp5/fnaf-3_2.0.4.apk/file"
-        }
-      ],
-      "image": "fnaf-3-v2-0-4.png"
-    },
-    {
-      "id": "fnaf-4-v2-0-4",
-      "name": "Five Nights at Freddy's 4",
-      "version": "2.0.4",
-      "platform": "Android",
-      "category": "Terror y supervivencia",
-      "icon": "🎮",
-      "short": "Five Nights at Freddy's 4 v2.0.4 para Android, una experiencia de terror y supervivencia frente a los animatrónicos de las pesadillas.",
-      "description": "Five Nights at Freddy's 4 es un juego de terror y supervivencia en el que debes prestar atención a los sonidos y revisar los accesos para evitar a los animatrónicos de pesadilla. Esta ficha corresponde a la versión 2.0.4 para Android.",
-      "features": [
-        "Versión 2.0.4 para Android.",
-        "Sobrevive a encuentros con animatrónicos de pesadilla.",
-        "Presta atención a los sonidos para detectar amenazas cercanas.",
-        "Revisa los accesos y actúa con cuidado para sobrevivir."
-      ],
-      "links": [
-        {
-          "label": "Five Nights at Freddy's 3 v2.0.4 para Android",
-          "url": "https://www.mediafire.com/file/fkdoodgxdx0eswi/fnaf-4_2.0.4.apk/file"
-        }
-      ],
-      "image": "fnaf-4-v2-0-4.png"
-    },
-    {
-      "id": "geometry-dash-2-2091-pc",
-      "name": "Geometry Dash",
-      "version": "2.2091",
-      "platform": "PC y Laptop",
-      "category": "Ritmo y plataformas",
-      "icon": "🎮",
-      "short": "Geometry Dash 2.2091 para PC y laptop, con niveles de plataformas, música y desafíos de ritmo.",
-      "description": "Geometry Dash es un juego de acción y plataformas basado en el ritmo. Supera obstáculos sincronizados con la música, domina niveles desafiantes y crea tus propios niveles. Esta publicación corresponde a la versión 2.2091 para PC y laptop.",
-      "features": [
-        "Versión 2.2091 para PC y laptop.",
-        "Niveles de plataformas con obstáculos y desafíos de precisión.",
-        "Jugabilidad basada en el ritmo y la música.",
-        "Editor para crear niveles personalizados.",
-        "Diferentes modos y niveles para poner a prueba tus reflejos."
-      ],
-      "links": [
-        {
-          "label": "Geometry Dash 2.2091 para PC",
-          "url": "https://www.mediafire.com/file/ufcnrktpgcyru8w/Geometry_Dash_2.2091_-_BY_DQ_GAMEPLAYS.rar/file"
-        }
-      ],
-      "image": "geometry-dash-2-2091-pc.jpg"
-    },
-    {
       "id": "the-bloop-addon-minecraft",
       "name": "The Bloop Addon para Minecraft",
       "version": "Addon",
@@ -1095,56 +1168,6 @@
         }
       ],
       "image": "the-bloop-addon-minecraft.png"
-    },
-    {
-      "id": "ppsspp-gold-1-20-4",
-      "name": "PPSSPP Gold",
-      "version": "1.20.4",
-      "platform": "Android",
-      "category": "Emuladores",
-      "icon": "🎮",
-      "short": "PPSSPP Gold 1.20.4 para Android, emulador para ejecutar juegos de PSP en dispositivos móviles.",
-      "description": "PPSSPP Gold es la edición de pago del emulador PPSSPP para Android. Permite ejecutar copias de juegos de PlayStation Portable (PSP) en dispositivos compatibles. El emulador no incluye juegos; debes utilizar copias de tus propios juegos y respetar sus derechos de distribución.",
-      "features": [
-        "Versión 1.20.4 para Android.",
-        "Emula juegos de PlayStation Portable (PSP).",
-        "Permite ajustar opciones gráficas y de rendimiento según el dispositivo.",
-        "Admite controles táctiles y mandos compatibles.",
-        "No incluye juegos; se deben añadir copias propias."
-      ],
-      "links": [
-        {
-          "label": "PPSSPP GOLD 1.20.4",
-          "url": "https://www.mediafire.com/file/ljoo1xmg1j2zxjf/ppsspp_gold_v1.20.4.apk/file"
-        }
-      ],
-      "image": "ppsspp-gold-1-20-4.png"
-    },
-    {
-      "id": "minecraft-26-62",
-      "name": "Minecraft",
-      "version": "26.62",
-      "platform": "Android",
-      "category": "Aventura y construcción",
-      "icon": "⛏️",
-      "short": "Minecraft 26.62 para Android, última versión.",
-      "description": "Minecraft 26.62 para Android. Consulta los requisitos y la compatibilidad de tu dispositivo antes de instalar.",
-      "features": [
-        "Versión 26.62 para Android.",
-        "Compatible con dispositivos Android que cumplan los requisitos del juego.",
-        "Revisa la compatibilidad y los requisitos antes de instalar."
-      ],
-      "links": [
-        {
-          "label": "Minecraft 26.62 + Música",
-          "url": "https://www.mediafire.com/file/nmuthk4slhs6pn8/minecraft-1.26.62-musica.apk/file"
-        },
-        {
-          "label": "Minecraft 26.62",
-          "url": "https://www.mediafire.com/file/g0lu0gcepjul384/minecraft-1.26.62.apk/file"
-        }
-      ],
-      "image": "minecraft-26-62.png"
     }
   ]
 }
