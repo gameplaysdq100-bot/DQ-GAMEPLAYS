@@ -27,6 +27,32 @@
       "image": "minecraft-26-62.png"
     },
     {
+      "id": "minecraft-patched-26-62",
+      "name": "Minecraft Patched",
+      "version": "26.62",
+      "platform": "Android",
+      "category": "Aventura y construcción",
+      "icon": "⛏️",
+      "short": "Minecraft Patched 26.62 para Android, basado en la versión 26.62 y orientado al uso de shaders compatibles.",
+      "description": "Minecraft Patched 26.62 es una versión modificada para Android basada en Minecraft Bedrock 26.62. Esta actualización hotfix incluye correcciones gráficas, mejoras de estabilidad y solución de problemas relacionados con la interacción con entidades y bloques. Esta edición Patched está orientada al uso de shaders compatibles; la compatibilidad puede variar según el shader, el dispositivo y la configuración utilizada.",
+      "features": [
+        "Basado en Minecraft Bedrock 26.62.",
+        "Versión Patched para Android.",
+        "Orientado al uso de shaders compatibles con la versión 26.62.",
+        "Corrección de un problema gráfico que impedía interactuar con entidades ubicadas dentro de bloques al seleccionarlos.",
+        "Mejoras de estabilidad en Xbox cuando el dispositivo se encuentra bajo una presión considerable de memoria.",
+        "Corrección de un cierre inesperado en Nintendo Switch 2 al renderizar escenas con una gran cantidad de objetos.",
+        "Corrección de un problema en Realms donde la configuración de sincronización en caché podía sobrescribir valores utilizados durante una compra."
+      ],
+      "links": [
+        {
+          "label": "Minecraft Patched 26.62",
+          "url": "https://www.mediafire.com/file/7c1dp1a1zj6es05/Minecraft-patched-1.26.62-by-DQ_GAMEPLAYS.apk/file"
+        }
+      ],
+      "image": "minecraft-patched-26-62.png"
+    },
+    {
       "id": "minecraft-26-60-android",
       "name": "Minecraft",
       "version": "26.60",
