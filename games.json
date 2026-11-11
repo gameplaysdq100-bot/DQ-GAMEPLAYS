@@ -613,6 +613,37 @@
       "image": "fnaf-sister-location-v2-0-5.jpg"
     },
     {
+      "id": "fnaf-pizzeria-simulator-1-0-8",
+      "name": "Five Nights at Freddy's: Pizzeria Simulator",
+      "version": "1.0.8",
+      "platform": "Android",
+      "category": "Terror y supervivencia",
+      "icon": "🐻",
+      "short": "Five Nights at Freddy's: Pizzeria Simulator 1.0.8 para Android. Administra tu propia pizzería Freddy Fazbear mientras sobrevives a los animatrónicos durante la noche.",
+      "description": "Five Nights at Freddy's: Pizzeria Simulator 1.0.8, también conocido como FNaF 6, es un juego de terror y simulación para Android desarrollado por Scott Cawthon y adaptado a dispositivos móviles por Clickteam. Ponte al mando de tu propia pizzería Freddy Fazbear, compra atracciones, decora el establecimiento, administra tus ganancias y sobrevive a los peligrosos animatrónicos que aparecen durante la noche. Completa tareas, vigila los conductos de ventilación y toma decisiones que determinarán el destino de tu restaurante.",
+      "features": [
+        "Versión 1.0.8 para dispositivos Android.",
+        "Administra y construye tu propia pizzería Freddy Fazbear.",
+        "Compra atracciones, decoraciones y artículos para tu restaurante.",
+        "Diseña pizzas y participa en minijuegos arcade.",
+        "Realiza pruebas de salvamento con animatrónicos.",
+        "Sobrevive durante la noche mientras completas tareas en la oficina.",
+        "Vigila los conductos de ventilación para evitar ataques.",
+        "Utiliza sonidos y herramientas para mantener alejados a los animatrónicos.",
+        "Enfréntate a animatrónicos como Scrap Baby, Molten Freddy, Scraptrap y Lefty.",
+        "Toma decisiones que pueden afectar el desarrollo de tu pizzería.",
+        "Incluye diferentes finales dependiendo de tus decisiones.",
+        "Controles adaptados para dispositivos móviles."
+      ],
+      "links": [
+        {
+          "label": "Five Nights at Freddy's Pizerria Simulator v1.0.8 para Android",
+          "url": "https://www.mediafire.com/file/ly0uvoxh9gaj1ph/fnaf-6_1.0.8.apk/file"
+        }
+      ],
+      "image": "fnaf-pizzeria-simulator-1-0-8.png"
+    },
+    {
       "id": "fnaf-3-v2-0-4",
       "name": "Five Nights at Freddy's 3",
       "version": "2.0.4",
