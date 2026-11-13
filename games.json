@@ -644,6 +644,39 @@
       "image": "fnaf-pizzeria-simulator-1-0-8.png"
     },
     {
+      "id": "ultimate-custom-night-1-0-9",
+      "name": "Ultimate Custom Night",
+      "version": "1.0.9",
+      "platform": "Android",
+      "category": "Terror y supervivencia",
+      "icon": "🐻",
+      "short": "Ultimate Custom Night 1.0.9 para Android. Enfréntate a 50 animatrónicos de Five Nights at Freddy's y personaliza tus propias noches de supervivencia.",
+      "description": "Ultimate Custom Night 1.0.9 es un videojuego de terror y supervivencia para Android desarrollado por Scott Cawthon y adaptado a dispositivos móviles por Clickteam USA LLC. En esta entrega tendrás que sobrevivir dentro de una oficina mientras te enfrentas a una combinación de 50 animatrónicos procedentes de siete juegos de Five Nights at Freddy's. Personaliza tus partidas seleccionando los personajes y ajustando su dificultad individual del 0 al 20. Utiliza diferentes herramientas, administra la energía, vigila las cámaras y completa desafiantes retos para desbloquear contenido adicional.",
+      "features": [
+        "Versión 1.0.9 para dispositivos Android.",
+        "Desarrollado por Scott Cawthon y adaptado por Clickteam USA LLC.",
+        "50 animatrónicos seleccionables procedentes de siete juegos de Five Nights at Freddy's.",
+        "Personalización de las noches con dificultad individual del 0 al 20.",
+        "Administra dos puertas laterales, dos conductos de ventilación y dos mangueras de aire.",
+        "Utiliza herramientas como el calentador, aire acondicionado, generador de energía y caja de música global.",
+        "Instala trampas láser en los conductos de ventilación.",
+        "Recolecta Faz-Coins y compra artículos en el mostrador de premios.",
+        "Vigila las dos cortinas de Pirate Cove.",
+        "Incluye 16 desafíos temáticos.",
+        "Desbloquea diferentes apariencias para la oficina.",
+        "Incluye cinemáticas desbloqueables.",
+        "Compatible con dispositivos Android.",
+        "Actualización 1.0.9 con mejoras en la biblioteca de Google Play Billing y actualización del nivel de API de destino."
+      ],
+      "links": [
+        {
+          "label": "Five Nights at Freddy's Ultimate Custom Night v1.0.9 para Android",
+          "url": "https://www.mediafire.com/file/wj6o6al55hsmy72/ultimate-custom-night_1.0.9.apk/file"
+        }
+      ],
+      "image": "ultimate-custom-night-1-0-9.png"
+    },
+    {
       "id": "fnaf-3-v2-0-4",
       "name": "Five Nights at Freddy's 3",
       "version": "2.0.4",
