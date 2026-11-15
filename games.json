@@ -1258,6 +1258,42 @@
         }
       ],
       "image": "the-bloop-addon-minecraft.png"
+    },
+    {
+      "id": "my-boy-gba-emulator-2-1-1",
+      "name": "My Boy! - GBA Emulator",
+      "version": "2.1.1",
+      "platform": "Android",
+      "category": "Emuladores",
+      "icon": "🎮",
+      "short": "My Boy! GBA Emulator 2.1.1 para Android. Disfruta tus juegos favoritos de Game Boy Advance con emulación rápida, controles personalizables y compatibilidad multijugador.",
+      "description": "My Boy! - GBA Emulator 2.1.1 es un emulador para Android que permite ejecutar juegos de Game Boy Advance directamente desde tu dispositivo móvil. Ofrece una emulación rápida gracias a su tecnología JIT, alta compatibilidad con juegos y numerosas opciones de personalización. Permite guardar y cargar partidas en cualquier momento, utilizar códigos de trucos, aplicar filtros gráficos y conectar dispositivos mediante Bluetooth o Wi-Fi para disfrutar de partidas multijugador. La aplicación no incluye juegos, por lo que necesitarás tus propios archivos ROM.",
+      "features": [
+        "Versión 2.1.1 para dispositivos Android.",
+        "Emulador compatible con juegos de Game Boy Advance.",
+        "Emulación rápida mediante tecnología JIT.",
+        "Alta compatibilidad con juegos de GBA.",
+        "Compatibilidad con multijugador mediante cable de enlace emulado.",
+        "Conexión entre dispositivos mediante Bluetooth y Wi-Fi.",
+        "Permite guardar y cargar partidas en cualquier momento.",
+        "Compatibilidad con códigos GameShark, Action Replay y CodeBreaker.",
+        "Emulación de BIOS sin necesidad de un archivo BIOS externo.",
+        "Compatibilidad con parches de ROM IPS y UPS.",
+        "Filtros gráficos y compatibilidad con shaders GLSL.",
+        "Función de avance rápido y ralentización de juegos.",
+        "Controles táctiles personalizables.",
+        "Editor para modificar la posición y tamaño de los controles.",
+        "Compatibilidad con sensores de movimiento y vibración.",
+        "Sincronización de partidas guardadas mediante Google Drive.",
+        "Corrección de errores internos y actualización para versiones recientes de Android."
+      ],
+      "links": [
+        {
+          "label": "GBA EMULATOR 2.1.1 para Android",
+          "url": "https://www.mediafire.com/file/kfymfbccp7z2yem/GBA_Emulator_v2.1.1_-_by_DQ_GAMEPLAYS.apk/file"
+        }
+      ],
+      "image": "my-boy-gba-emulator-2-1-1.png"
     }
   ]
 }
