@@ -920,6 +920,40 @@
       "image": "poppy-playtime-capitulo-3-v1-0-25.png"
     },
     {
+      "id": "poppy-playtime-chapter-5-1-0-19",
+      "name": "Poppy Playtime Chapter 5",
+      "version": "1.0.19",
+      "platform": "Android",
+      "category": "Terror y supervivencia",
+      "icon": "🧸",
+      "short": "Poppy Playtime Chapter 5: Broken Things 1.0.19 para Android. Explora las profundidades de Playtime Co., escapa de Huggy Wuggy y enfréntate al temible Prototipo.",
+      "description": "Poppy Playtime Chapter 5: Broken Things 1.0.19 es un videojuego de terror, aventura y supervivencia para Android desarrollado por Mob Entertainment. En esta nueva entrega continuarás la historia después de los acontecimientos del capítulo 4, adentrándote en las zonas más oscuras y peligrosas de la fábrica Playtime Co. Explora el dominio del Prototipo, sobrevive a la persecución de Huggy Wuggy, descubre nuevos personajes y resuelve desafiantes acertijos utilizando las nuevas herramientas y habilidades del GrabPack. Descubre los secretos más oscuros de la compañía y enfréntate a los peligros que esperan en las profundidades de la fábrica.",
+      "features": [
+        "Versión 1.0.19 para dispositivos Android.",
+        "Capítulo 5: Broken Things.",
+        "Desarrollado por Mob Entertainment.",
+        "Continúa la historia después de los acontecimientos de Poppy Playtime Chapter 4.",
+        "Explora nuevas zonas de la fábrica Playtime Co.",
+        "Adéntrate en el dominio del Prototipo.",
+        "Sobrevive a la persecución de Huggy Wuggy.",
+        "Encuentra nuevos personajes y criaturas misteriosas.",
+        "Descubre los secretos ocultos de los experimentos de Playtime Co.",
+        "Utiliza nuevas herramientas y habilidades del GrabPack.",
+        "Resuelve acertijos y supera obstáculos ambientales.",
+        "Enfréntate a nuevos peligros y desafíos de supervivencia.",
+        "Explora escenarios con una ambientación de terror.",
+        "Controles adaptados para dispositivos móviles.",
+        "Experiencia de terror y aventura en primera persona."
+      ],
+      "links": [
+        {
+          "label": "Poppy Playtime Capítulo 5 v1.0.19 para Android",
+          "url": "https://www.mediafire.com/file/xjhkps8hbhfiuza/Poppy-Playtime-Chapter-5-v1.0.19-by_DQ_GAMEPLAYS.apk/file"
+        }
+      ],
+      "image": "poppy-playtime-chapter-5-1-0-19.png"
+    },
+    {
       "id": "poppy-playtime-capitulo-5-android-v1-0-17",
       "name": "Poppy Playtime Capítulo 5",
       "version": "1.0.17",
