@@ -1,6 +1,43 @@
 {
   "games": [
     {
+      "id": "minecraft-26-66",
+      "name": "Minecraft",
+      "version": "26.66",
+      "platform": "Android",
+      "category": "Aventura y construcción",
+      "icon": "⛏️",
+      "short": "Minecraft 26.66 para Android. Disfruta de la experiencia Minecraft Bedrock con correcciones de errores, mejoras en los controles táctiles y mayor estabilidad.",
+      "description": "Minecraft Bedrock 26.66 es una actualización Hotfix para Android que se centra en solucionar problemas de jugabilidad, gráficos, controles táctiles y Realms. Esta versión corrige errores que impedían interactuar con entidades dentro de bloques, soluciona problemas relacionados con los logros en determinados mundos que utilizan complementos y mejora la estabilidad visual de los controles táctiles. También incorpora mejoras en la velocidad y fiabilidad de las subidas de mundos a Realms.",
+      "features": [
+        "Basado en Minecraft Bedrock 26.66.",
+        "Versión disponible para dispositivos Android.",
+        "Corrección de problemas que impedían interactuar con entidades dentro de bloques.",
+        "Solución de errores que desactivaban incorrectamente los logros en determinados mundos con complementos.",
+        "Los logros se vuelven a habilitar automáticamente al cargar los mundos afectados.",
+        "Corrección de movimientos visuales irregulares en los controles táctiles.",
+        "Mejoras en la velocidad y fiabilidad al subir mundos a Minecraft Realms.",
+        "Corrección de problemas con la sincronización de configuraciones en la nube durante la compra de Realms.",
+        "Mejoras generales en la experiencia de juego.",
+        "Compatibilidad con mundos, complementos y recursos de Minecraft Bedrock, según su versión.",
+        "Modo de supervivencia y creativo.",
+        "Compatibilidad con multijugador y servidores.",
+        "Acceso al Marketplace de Minecraft.",
+        "Posibilidad de personalizar mundos mediante complementos, texturas y mapas compatibles."
+      ],
+      "links": [
+        {
+          "label": "Minecraft 26.66 + Música",
+          "url": "https://www.mediafire.com/file/6vitr40pbgzfv3p/minecraft-1.26.66.1-musica-by_DQ_GAMEPLAYS.apk/file"
+        },
+        {
+          "label": "Minecraft 26.66",
+          "url": "https://www.mediafire.com/file/srdoly5w4y1g3ot/minecraft-1.26.66.1-by_DQ_GAMEPLAYS.apk/file"
+        }
+      ],
+      "image": "minecraft-26-66.png"
+    },
+    {
       "id": "minecraft-26-62",
       "name": "Minecraft",
       "version": "26.62",
