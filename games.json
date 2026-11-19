@@ -392,6 +392,41 @@
       "image": "gta-san-andreas-2-11-311.jpg"
     },
     {
+      "id": "gta-vice-city-1-12-259",
+      "name": "Grand Theft Auto: Vice City",
+      "version": "1.12.259",
+      "platform": "Android",
+      "category": "Acción y mundo abierto",
+      "icon": "🌴",
+      "short": "GTA Vice City 1.12.259 para Android. Explora Vice City, completa misiones, conduce vehículos y construye tu propio imperio criminal en los años 80.",
+      "description": "Grand Theft Auto: Vice City 1.12.259 es un videojuego de acción y mundo abierto desarrollado por Rockstar Games para dispositivos Android. La historia sigue a Tommy Vercetti, quien llega a Vice City después de salir de prisión y termina involucrado en una peligrosa operación criminal. Explora una enorme ciudad inspirada en Miami durante los años 80, completa misiones, participa en persecuciones, utiliza diferentes armas, conduce numerosos vehículos y construye tu propio imperio criminal. Esta versión incluye correcciones generales de errores y mejoras de funcionamiento.",
+      "features": [
+        "Versión 1.12.259 para dispositivos Android.",
+        "Desarrollado por Rockstar Games.",
+        "Historia protagonizada por Tommy Vercetti.",
+        "Ambientación inspirada en Miami durante los años 80.",
+        "Explora una extensa ciudad de mundo abierto.",
+        "Completa misiones principales y secundarias.",
+        "Conduce una gran variedad de automóviles, motocicletas, barcos y helicópteros.",
+        "Utiliza diferentes armas para enfrentarte a tus enemigos.",
+        "Participa en persecuciones y enfrentamientos contra bandas criminales.",
+        "Compra propiedades y desarrolla negocios para generar ingresos.",
+        "Disfruta de una banda sonora con música inspirada en los años 80.",
+        "Gráficos adaptados para dispositivos móviles.",
+        "Controles táctiles personalizables.",
+        "Compatibilidad con mandos inalámbricos USB y Bluetooth.",
+        "Permite ajustar diferentes opciones gráficas.",
+        "Correcciones generales de errores y mejoras de funcionamiento."
+      ],
+      "links": [
+        {
+          "label": "GTA Vice city 1.12.259 para Android",
+          "url": "https://www.mediafire.com/file/f94x6h59rgy1s58/GTA-VC-v1.12.259-by_DQ_GAMEPLAYS.apk/file"
+        }
+      ],
+      "image": "gta-vice-city-1-12-259.png"
+    },
+    {
       "id": "human-fall-flat-2-7",
       "name": "Human Fall Flat",
       "version": "2.7",
