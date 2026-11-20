@@ -464,6 +464,42 @@
       "image": "gta-vice-city-1-12-259.png"
     },
     {
+      "id": "gta-3-1-10-106",
+      "name": "Grand Theft Auto III",
+      "version": "1.10.106",
+      "platform": "Android",
+      "category": "Acción y mundo abierto",
+      "icon": "🚗",
+      "short": "GTA 3 1.10.106 para Android. Explora Liberty City, completa misiones criminales, conduce diferentes vehículos y conviértete en el protagonista del mundo del crimen.",
+      "description": "Grand Theft Auto III 1.10.106 es un videojuego de acción y mundo abierto desarrollado por Rockstar Games para dispositivos Android. La historia sigue a Claude, quien después de ser traicionado durante un atraco comienza una nueva vida en Liberty City, una ciudad dominada por bandas criminales, corrupción y peligrosas organizaciones. Explora libremente sus diferentes distritos, completa misiones para personajes del mundo criminal, conduce numerosos vehículos, utiliza diferentes armas y construye tu reputación en el bajo mundo. Esta versión incluye correcciones generales de errores y mejoras de funcionamiento.",
+      "features": [
+        "Versión 1.10.106 para dispositivos Android.",
+        "Desarrollado por Rockstar Games.",
+        "Historia protagonizada por Claude.",
+        "Explora Liberty City y sus diferentes distritos.",
+        "Completa numerosas misiones principales y secundarias.",
+        "Conduce automóviles, motocicletas, camiones, barcos y otros vehículos.",
+        "Utiliza diferentes armas para enfrentarte a tus enemigos.",
+        "Participa en persecuciones policiales y enfrentamientos entre bandas.",
+        "Interactúa con diferentes personajes y organizaciones criminales.",
+        "Descubre secretos y actividades ocultas por toda la ciudad.",
+        "Disfruta de una experiencia de mundo abierto.",
+        "Gráficos adaptados para dispositivos móviles.",
+        "Controles táctiles personalizables.",
+        "Compatibilidad con mandos de juego compatibles.",
+        "Opciones de configuración de vídeo para adaptar la experiencia gráfica.",
+        "Banda sonora con diferentes emisoras de radio.",
+        "Correcciones generales de errores y mejoras de funcionamiento."
+      ],
+      "links": [
+        {
+          "label": "GTA 3 1.10.106 para Android",
+          "url": "https://www.mediafire.com/file/ritijk2r1roa2yr/GTA-III-v1.10.106-by_DQ_GAMEPLAYS.apk/file"
+        }
+      ],
+      "image": "gta-3-1-10-106.png"
+    },
+    {
       "id": "human-fall-flat-2-7",
       "name": "Human Fall Flat",
       "version": "2.7",
