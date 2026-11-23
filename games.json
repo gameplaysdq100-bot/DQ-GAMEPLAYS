@@ -1413,6 +1413,44 @@
       "image": "poppy-playtime-capitulo-5-pc.png"
     },
     {
+      "id": "bendy-and-the-ink-machine-2-1-0",
+      "name": "Bendy and the Ink Machine",
+      "version": "2.1.0",
+      "platform": "Android",
+      "category": "Terror y supervivencia",
+      "icon": "🖤",
+      "short": "Bendy and the Ink Machine 2.1.0 para Android. Explora un misterioso estudio de animación abandonado, resuelve acertijos y sobrevive al aterrador Demonio de Tinta.",
+      "description": "Bendy and the Ink Machine 2.1.0 es un videojuego de terror, aventura y acción en primera persona desarrollado por Joey Drew Studios. La historia sigue a Henry, un antiguo animador que regresa al estudio de animación Joey Drew Studios después de recibir una misteriosa invitación. Lo que parecía una simple visita se convierte en una aterradora pesadilla llena de criaturas de tinta, secretos y peligros. Explora las instalaciones abandonadas, resuelve acertijos, utiliza diferentes armas, escóndete de tus enemigos y descubre los oscuros secretos que esconde la máquina de tinta. Esta versión incorpora logros, compatibilidad con mandos Xbox, mejoras en las armas y numerosas correcciones de errores y estabilidad.",
+      "features": [
+        "Versión 2.1.0 para dispositivos Android.",
+        "Desarrollado por Joey Drew Studios.",
+        "Historia protagonizada por Henry Stein.",
+        "Explora el misterioso estudio de animación Joey Drew Studios.",
+        "Enfréntate al aterrador Demonio de Tinta.",
+        "Descubre personajes como Bendy, Boris y Alice Angel.",
+        "Explora diferentes capítulos y escenarios del estudio.",
+        "Resuelve acertijos y completa diferentes misiones.",
+        "Combate en primera persona utilizando distintas armas.",
+        "Utiliza el sigilo para escapar de las criaturas de tinta.",
+        "Descubre secretos, objetos ocultos y coleccionables.",
+        "Incluye sistema de logros.",
+        "Compatibilidad con mandos Xbox.",
+        "Aumento del alcance de las armas Jeringa y Desatascador.",
+        "Mejoras de localización y compatibilidad con chino tradicional.",
+        "Correcciones de errores y mejoras generales de estabilidad.",
+        "Compatible con dispositivos Android.",
+        "Modo de juego para un jugador.",
+        "Compatible con partidas sin conexión."
+      ],
+      "links": [
+        {
+          "label": "Bendy and the Ink Machine 2.1.0 para Android",
+          "url": "https://www.mediafire.com/file/i6wytmfjejih31h/Bendy-v2.1.0-by_DQ_GAMEPLAYS.apk/file"
+        }
+      ],
+      "image": "bendy-and-the-ink-machine-2-1-0.png"
+    },
+    {
       "id": "the-bloop-addon-minecraft",
       "name": "The Bloop Addon para Minecraft",
       "version": "Addon",
