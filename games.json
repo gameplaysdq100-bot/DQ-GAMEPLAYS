@@ -1451,6 +1451,43 @@
       "image": "bendy-and-the-ink-machine-2-1-0.png"
     },
     {
+      "id": "little-nightmares-1-4",
+      "name": "Little Nightmares",
+      "version": "1.4",
+      "platform": "Android",
+      "category": "Terror y aventura",
+      "icon": "🌙",
+      "short": "Little Nightmares 1.4 para Android. Acompaña a Six en una aterradora aventura dentro de Las Fauces, un misterioso barco lleno de criaturas peligrosas y secretos oscuros.",
+      "description": "Little Nightmares 1.4 es un videojuego de terror, aventura y plataformas desarrollado originalmente por Tarsier Studios y adaptado a dispositivos móviles por Playdigious. La historia sigue a Six, una pequeña niña que debe escapar de Las Fauces (The Maw), un enorme y misterioso barco habitado por criaturas aterradoras. Explora escenarios oscuros, resuelve acertijos, escala estructuras, arrástrate por espacios estrechos y escóndete de los peligrosos habitantes que intentarán atraparte. Utiliza tu ingenio para sobrevivir y descubrir los secretos de este inquietante lugar. La versión 1.4 incluye pequeñas correcciones y mejoras generales.",
+      "features": [
+        "Versión 1.4 para dispositivos Android.",
+        "Desarrollado originalmente por Tarsier Studios.",
+        "Adaptación móvil realizada por Playdigious.",
+        "Historia protagonizada por Six, una niña con un impermeable amarillo.",
+        "Explora Las Fauces (The Maw), un enorme barco lleno de peligros.",
+        "Sobrevive a criaturas aterradoras y enemigos gigantes.",
+        "Resuelve acertijos y desafíos ambientales.",
+        "Escala objetos y estructuras para avanzar por los escenarios.",
+        "Arrástrate y escóndete para evitar que los enemigos te descubran.",
+        "Explora habitaciones, pasillos y lugares llenos de secretos.",
+        "Ambientación oscura con una excelente dirección artística.",
+        "Diseño de sonido que aumenta la tensión y el terror.",
+        "Controles táctiles adaptados para dispositivos móviles.",
+        "Incluye diferentes modos de control: estándar e inmersivo.",
+        "Compatibilidad con mandos compatibles.",
+        "Sistema de guardado en la nube.",
+        "Incluye logros del juego.",
+        "Correcciones menores de errores en la versión 1.4."
+      ],
+      "links": [
+        {
+          "label": "Little Nightmares 1.4 para Android",
+          "url": "https://www.mediafire.com/file/khd4i28qkt5ap41/Little_Nightmares_v1.4_-_By_DQ_GAMEPLAYS.apk/file"
+        }
+      ],
+      "image": "little-nightmares-1-4.png"
+    },
+    {
       "id": "the-bloop-addon-minecraft",
       "name": "The Bloop Addon para Minecraft",
       "version": "Addon",
