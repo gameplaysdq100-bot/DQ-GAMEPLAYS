@@ -961,6 +961,44 @@
       "image": "actions-and-stuff-1-12.jpg"
     },
     {
+      "id": "terraria-1-4-6",
+      "name": "Terraria",
+      "version": "1.4.6",
+      "platform": "Android",
+      "category": "Aventura y supervivencia",
+      "icon": "⚔️",
+      "short": "Terraria 1.4.6 para Android. Explora mundos enormes, construye refugios, fabrica armas, derrota jefes y descubre innumerables secretos en esta aventura sandbox.",
+      "description": "Terraria 1.4.6 es un videojuego de aventura, exploración, construcción y supervivencia para Android desarrollado por Re-Logic y adaptado a dispositivos móviles por DR Studios. Sumérgete en mundos generados de forma aleatoria donde podrás explorar cuevas, descubrir tesoros, recolectar recursos, fabricar herramientas, construir estructuras y enfrentarte a peligrosos enemigos y jefes. Esta actualización incorpora novedades relacionadas con el juego multijugador multiplataforma, ajustes de equilibrio y diferentes correcciones. Disfruta de una aventura donde tu imaginación y tus habilidades determinarán tu progreso.",
+      "features": [
+        "Versión 1.4.6 para dispositivos Android.",
+        "Desarrollado originalmente por Re-Logic.",
+        "Adaptación móvil realizada por DR Studios.",
+        "Explora mundos generados de forma aleatoria.",
+        "Construye casas, refugios y enormes estructuras.",
+        "Recolecta recursos y fabrica herramientas, armas y armaduras.",
+        "Enfréntate a numerosos enemigos y jefes.",
+        "Descubre biomas, cuevas, mazmorras y tesoros ocultos.",
+        "Encuentra cientos de objetos, accesorios y materiales.",
+        "Personaliza tu personaje con diferentes armaduras y apariencias.",
+        "Sistema de progresión con diferentes niveles de dificultad.",
+        "Explora semillas especiales y descubre mundos únicos.",
+        "Incluye novedades y ajustes de equilibrio de la actualización 1.4.6.",
+        "Mejoras relacionadas con el juego multijugador multiplataforma.",
+        "Posibilidad de jugar con otros usuarios mediante conexión de red compatible.",
+        "Controles táctiles personalizables.",
+        "Compatibilidad con mandos y controles externos.",
+        "Modo de supervivencia y construcción.",
+        "Experiencia para un jugador y multijugador."
+      ],
+      "links": [
+        {
+          "label": "Terraria 1.4.6 para Android",
+          "url": "https://www.mediafire.com/file/oepxyw84n17env3/Terraria-v1.4.6-by_DQ_GAMEPLAYS.apk/file"
+        }
+      ],
+      "image": "terraria-1-4-6.png"
+    },
+    {
       "id": "terraria-1-4-5-8-6",
       "name": "Terraria",
       "version": "1.4.5.8.6",
