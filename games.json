@@ -534,6 +534,45 @@
       "image": "gta-3-1-10-106.png"
     },
     {
+      "id": "gta-liberty-city-stories-2-4-379",
+      "name": "Grand Theft Auto: Liberty City Stories",
+      "version": "2.4.379",
+      "platform": "Android",
+      "category": "Acción y mundo abierto",
+      "icon": "🚗",
+      "short": "GTA Liberty City Stories 2.4.379 para Android. Acompaña a Toni Cipriani en una peligrosa historia criminal y conquista las calles de Liberty City.",
+      "description": "Grand Theft Auto: Liberty City Stories 2.4.379 es un videojuego de acción y mundo abierto desarrollado por Rockstar Games para dispositivos Android. La historia sigue a Toni Cipriani, un antiguo miembro de confianza de la familia Leone que regresa a Liberty City después de permanecer escondido por haber asesinado a un importante mafioso. En una ciudad dominada por la corrupción, las guerras entre familias criminales y el tráfico de drogas, Toni deberá recuperar su posición dentro de la organización Leone y ayudar a controlar las calles. Explora diferentes distritos, completa misiones, conduce numerosos vehículos y participa en intensos enfrentamientos. Esta versión incorpora correcciones generales de errores y mejoras de funcionamiento.",
+      "features": [
+        "Versión 2.4.379 para dispositivos Android.",
+        "Desarrollado por Rockstar Games.",
+        "Historia protagonizada por Toni Cipriani.",
+        "Explora Liberty City y sus diferentes distritos.",
+        "Vive una historia criminal ambientada antes de los acontecimientos de GTA III.",
+        "Completa numerosas misiones principales y secundarias.",
+        "Trabaja para la familia criminal Leone.",
+        "Enfréntate a diferentes organizaciones y bandas criminales.",
+        "Conduce automóviles, motocicletas, barcos y otros vehículos.",
+        "Utiliza diferentes armas para combatir a tus enemigos.",
+        "Participa en persecuciones y enfrentamientos.",
+        "Explora una ciudad llena de actividades y secretos.",
+        "Gráficos mejorados con iluminación y sombras en tiempo real.",
+        "Texturas mejoradas y mayor distancia de dibujado.",
+        "Controles táctiles adaptados para dispositivos móviles.",
+        "Sistema de conducción y apuntado optimizado para pantallas táctiles.",
+        "Compatibilidad con mandos de juego compatibles.",
+        "Guardado en la nube mediante Rockstar Social Club.",
+        "Compatible con partidas sin conexión.",
+        "Correcciones generales de errores y mejoras de funcionamiento."
+      ],
+      "links": [
+        {
+          "label": "GTA Liberty City Stories 2.4.379 para Android",
+          "url": "https://www.mediafire.com/file/9c5qwlixoc07pwd/GTA-LCS-v2.4.379.apk/file"
+        }
+      ],
+      "image": "gta-liberty-city-stories-2-4-379.png"
+    },
+    {
       "id": "human-fall-flat-2-7",
       "name": "Human Fall Flat",
       "version": "2.7",
