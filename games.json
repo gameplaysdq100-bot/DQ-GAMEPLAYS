@@ -1000,6 +1000,44 @@
       "image": "actions-and-stuff-1-12.jpg"
     },
     {
+      "id": "terraria-1-4-6-1-pc",
+      "name": "Terraria",
+      "version": "1.4.6.1",
+      "platform": "PC",
+      "category": "Aventura y supervivencia",
+      "icon": "⚔️",
+      "short": "Terraria 1.4.6.1 para PC. Explora mundos infinitos, construye, fabrica armas, derrota jefes y disfruta del multijugador multiplataforma.",
+      "description": "Terraria 1.4.6.1 es un videojuego de aventura, exploración, construcción y supervivencia para PC desarrollado por Re-Logic. Sumérgete en mundos generados aleatoriamente donde podrás explorar cuevas, descubrir tesoros, recolectar recursos, fabricar herramientas, construir estructuras y enfrentarte a peligrosos enemigos y jefes. Esta versión Hotfix corrige un cierre inesperado relacionado con Steam al abrir el menú multijugador y seleccionar un jugador, además de solucionar un problema que impedía iniciar los servidores en Linux debido a bibliotecas faltantes. También es compatible con la versión 1.4.6.",
+      "features": [
+        "Versión 1.4.6.1 para PC.",
+        "Desarrollado por Re-Logic.",
+        "Compatible con Windows, Linux y macOS.",
+        "Actualización Hotfix con correcciones de errores.",
+        "Corrección de un cierre inesperado de Steam al seleccionar un jugador desde el menú multijugador.",
+        "Corrección de un problema que impedía iniciar servidores dedicados en Linux por bibliotecas faltantes.",
+        "Compatible con mundos y partidas de Terraria 1.4.6.",
+        "Multijugador multiplataforma mediante red local.",
+        "Interfaz multijugador rediseñada.",
+        "Posibilidad de invitar y unirse a amigos de Steam desde el juego.",
+        "Explora mundos generados de forma aleatoria.",
+        "Construye casas, refugios y enormes estructuras.",
+        "Recolecta recursos y fabrica herramientas, armas y armaduras.",
+        "Enfréntate a numerosos enemigos y jefes.",
+        "Descubre biomas, cuevas, mazmorras y tesoros ocultos.",
+        "Incluye la semilla especial Creepy Crawlies.",
+        "Incluye la semilla especial Arachnophobia.",
+        "Disfruta de diferentes niveles de dificultad y progresión.",
+        "Compatible con servidores dedicados."
+      ],
+      "links": [
+        {
+          "label": "Terraria 1.4.6.1 para PC",
+          "url": "https://www.mediafire.com/file/qtzgovrr1y8x83b/Terraria_v1.4.6.1-PC.zip/file"
+        }
+      ],
+      "image": "terraria-1-4-6-1-pc.png"
+    },
+    {
       "id": "terraria-1-4-6",
       "name": "Terraria",
       "version": "1.4.6",
